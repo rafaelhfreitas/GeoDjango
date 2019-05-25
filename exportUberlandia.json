@@ -1,0 +1,8660 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.7 8b86ff77",
+  "osm3s": {
+    "timestamp_osm_base": "2019-05-25T01:27:02Z",
+    "timestamp_areas_base": "2019-05-25T00:26:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 956073861,
+      "lat": -18.9009575,
+      "lon": -48.2916598,
+      "tags": {
+        "addr:housenumber": "2267",
+        "addr:street": "Cesário Crosara",
+        "name": "Supermercado Sinhá",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 957099192,
+      "lat": -18.9227471,
+      "lon": -48.2882598,
+      "tags": {
+        "name": "Supermercado D'Ville",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 957113445,
+      "lat": -18.9218776,
+      "lon": -48.2823554,
+      "tags": {
+        "name": "Supermercado Bretas",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 959088311,
+      "lat": -18.902678,
+      "lon": -48.232548,
+      "tags": {
+        "name": "Makro",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 960577714,
+      "lat": -18.914312,
+      "lon": -48.2756756,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "120",
+        "addr:street": "Avenida João Pessoa",
+        "name": "Pratic Shopping",
+        "shop": "mall",
+        "website": "http://www.praticshopping.com.br",
+        "wikipedia": "pt:Pratic Shopping"
+      }
+    },
+    {
+      "type": "node",
+      "id": 960601569,
+      "lat": -18.9183441,
+      "lon": -48.2820552,
+      "tags": {
+        "amenity": "marketplace",
+        "name": "Mercado Público de Uberlândia",
+        "shop": "general",
+        "wikidata": "Q10328779",
+        "wikipedia": "pt:Mercado Municipal de Uberlândia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1658238760,
+      "lat": -18.9194946,
+      "lon": -48.2785332,
+      "tags": {
+        "addr:street": "Avenida Afonso Pena",
+        "name": "Riachuelo",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1658238761,
+      "lat": -18.9206367,
+      "lon": -48.2774149,
+      "tags": {
+        "addr:street": "Avenida Floriano Peixoto",
+        "name": "Lojas Americanas",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1778642585,
+      "lat": -18.91416,
+      "lon": -48.282625,
+      "tags": {
+        "addr:door": "11",
+        "addr:postcode": "38400-358",
+        "clothes": "women",
+        "name": "Lux Roupas e Acessórios",
+        "opening_hours": "Mo-Fr 09:00-18:30",
+        "phone": "34 3231-3548",
+        "shop": "clothes",
+        "website": "https://www.luxloja.com.br/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2123462672,
+      "lat": -18.9253065,
+      "lon": -48.2842041,
+      "tags": {
+        "name": "Empório Super Prátiko",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2290343521,
+      "lat": -18.9065529,
+      "lon": -48.2575639,
+      "tags": {
+        "name": "Leal Supermecado",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2689038384,
+      "lat": -18.9098578,
+      "lon": -48.1871848,
+      "tags": {
+        "name": "Tais Cabeleleira e Di Manicure",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2961618725,
+      "lat": -18.9068752,
+      "lon": -48.2784104,
+      "tags": {
+        "name": "Ferreira",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2961618726,
+      "lat": -18.9097984,
+      "lon": -48.2770371,
+      "tags": {
+        "name": "Elegância Móveis e Decoração",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2961618727,
+      "lat": -18.911605,
+      "lon": -48.27546,
+      "tags": {
+        "name": "Central Garden",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2961618729,
+      "lat": -18.9077684,
+      "lon": -48.261373,
+      "tags": {
+        "brand": "Fiat",
+        "name": "Curinga",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3082118712,
+      "lat": -18.911959,
+      "lon": -48.2643798,
+      "tags": {
+        "name": "Padaria Santo Trigo",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3196316639,
+      "lat": -18.9188686,
+      "lon": -48.2392167,
+      "tags": {
+        "name": "Casa de Carnes Bifão",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 07:00-13:00; PH off",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3305131216,
+      "lat": -18.9148814,
+      "lon": -48.2859448,
+      "tags": {
+        "name": "Millenium",
+        "shop": "chemist",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3348220573,
+      "lat": -18.895809,
+      "lon": -48.277275,
+      "tags": {
+        "name": "Delicioso",
+        "shop": "deli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3348220581,
+      "lat": -18.8962442,
+      "lon": -48.2773959,
+      "tags": {
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3355282005,
+      "lat": -18.8934312,
+      "lon": -48.2532254,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "3156",
+        "addr:postcode": "38400-722",
+        "addr:street": "Rua Ricardo Siquierolli Tucci",
+        "addr:suburb": "Brasil",
+        "name": "UBERL@N HOUSE & INFORMÁTICA",
+        "note": "Venda de crédito para celular e jogos: LEVELUP, E-PREPAG, BOA COMPRA, PAYMENTEZ;XEROX;Venda e manutenção de Computadores e periférico;2ª Via.",
+        "opening_hours": "10:30-12:00, 14:30-20:30",
+        "phone": "+55 34 32120014",
+        "shop": "supermarket",
+        "website": "uberlan.portalbrasilcentral.com.br"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3355287281,
+      "lat": -18.8934255,
+      "lon": -48.253248,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "3156",
+        "addr:postcode": "38400-722",
+        "addr:street": "Rua Ricardo Siquierolli Tucci",
+        "addr:suburb": "Brasil",
+        "name": "MERCEARIA DOIS A",
+        "opening_hours": "06:30-12:00, 15:30-21:00",
+        "phone": "+553432120014",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3355291880,
+      "lat": -18.8899962,
+      "lon": -48.2559089,
+      "tags": {
+        "name": "HAVAN",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3916710729,
+      "lat": -18.9172113,
+      "lon": -48.2528316,
+      "tags": {
+        "addr:housenumber": "673",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "cuisine": "regional",
+        "name": "Vício do Corpo",
+        "shop": "fashion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3975077273,
+      "lat": -18.9177457,
+      "lon": -48.259099,
+      "tags": {
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3975077274,
+      "lat": -18.9173295,
+      "lon": -48.2566099,
+      "tags": {
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3975082982,
+      "lat": -18.9174234,
+      "lon": -48.2575701,
+      "tags": {
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3975082983,
+      "lat": -18.9173473,
+      "lon": -48.2575862,
+      "tags": {
+        "shop": "newsagent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3975082986,
+      "lat": -18.9158315,
+      "lon": -48.25806,
+      "tags": {
+        "name": "Formato Copiadora",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3975082987,
+      "lat": -18.9166502,
+      "lon": -48.2549441,
+      "tags": {
+        "addr:housenumber": "433",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "name": "Ideal Copiadora",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700458,
+      "lat": -18.9244078,
+      "lon": -48.2616369,
+      "tags": {
+        "name": "Prime Customs",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700460,
+      "lat": -18.9265822,
+      "lon": -48.2591942,
+      "tags": {
+        "name": "Euroville BMW/Mini",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700461,
+      "lat": -18.9265028,
+      "lon": -48.2594241,
+      "tags": {
+        "name": "Panificadora Galvão",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700462,
+      "lat": -18.9265998,
+      "lon": -48.2596199,
+      "tags": {
+        "name": "Goodstar",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700464,
+      "lat": -18.9263353,
+      "lon": -48.257762,
+      "tags": {
+        "name": "Minas Acabamentos",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700465,
+      "lat": -18.9266586,
+      "lon": -48.2556836,
+      "tags": {
+        "name": "Velox",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700466,
+      "lat": -18.9266544,
+      "lon": -48.2560768,
+      "tags": {
+        "name": "Zap",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700468,
+      "lat": -18.9271589,
+      "lon": -48.2564905,
+      "tags": {
+        "name": "Negócio da China",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700469,
+      "lat": -18.9269145,
+      "lon": -48.2575157,
+      "tags": {
+        "name": "Brasão",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700472,
+      "lat": -18.9289669,
+      "lon": -48.2647776,
+      "tags": {
+        "name": "Doces Bárbaros",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700473,
+      "lat": -18.9284544,
+      "lon": -48.265162,
+      "tags": {
+        "name": "Agrodez",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009700488,
+      "lat": -18.9222565,
+      "lon": -48.2786728,
+      "tags": {
+        "name": "Sinhá",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009702506,
+      "lat": -18.911492,
+      "lon": -48.2637,
+      "tags": {
+        "name": "Vintage Tattoo",
+        "shop": "tattoo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009702508,
+      "lat": -18.9181011,
+      "lon": -48.2739818,
+      "tags": {
+        "name": "Miabara Store",
+        "shop": "tattoo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011701144,
+      "lat": -18.9049581,
+      "lon": -48.2200751,
+      "tags": {
+        "name": "Praça Shopping Uberlândia",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011701150,
+      "lat": -18.8975989,
+      "lon": -48.2608693,
+      "tags": {
+        "name": "Cardoso Motos",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011701155,
+      "lat": -18.9073936,
+      "lon": -48.2711679,
+      "tags": {
+        "name": "Coppa",
+        "shop": "chocolate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011701185,
+      "lat": -18.9148035,
+      "lon": -48.2778622,
+      "tags": {
+        "name": "Pantera",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011704429,
+      "lat": -18.9228006,
+      "lon": -48.2772265,
+      "tags": {
+        "name": "Cupcakelândia",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011704439,
+      "lat": -18.92098,
+      "lon": -48.2822334,
+      "tags": {
+        "name": "Sebo CD's",
+        "shop": "music"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011704440,
+      "lat": -18.9241284,
+      "lon": -48.2828253,
+      "tags": {
+        "name": "Black KoiTattoo",
+        "shop": "tattoo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011704441,
+      "lat": -18.9243118,
+      "lon": -48.2829003,
+      "tags": {
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011704442,
+      "lat": -18.9256372,
+      "lon": -48.2871985,
+      "tags": {
+        "name": "Mercado Tabajaras",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011704469,
+      "lat": -18.9329417,
+      "lon": -48.2836394,
+      "tags": {
+        "shop": "seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4011704472,
+      "lat": -18.9322216,
+      "lon": -48.2814856,
+      "tags": {
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858210,
+      "lat": -18.9258176,
+      "lon": -48.2597724,
+      "tags": {
+        "name": "Autominas",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858211,
+      "lat": -18.925686,
+      "lon": -48.2600057,
+      "tags": {
+        "name": "Audi",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858212,
+      "lat": -18.9255587,
+      "lon": -48.2602255,
+      "tags": {
+        "name": "Jeep",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858213,
+      "lat": -18.9251175,
+      "lon": -48.2609765,
+      "tags": {
+        "name": "Off Road e Náutica",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858214,
+      "lat": -18.9283525,
+      "lon": -48.2559116,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858220,
+      "lat": -18.9305527,
+      "lon": -48.2451608,
+      "tags": {
+        "name": "Mundial Bikes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858248,
+      "lat": -18.9182725,
+      "lon": -48.248745,
+      "tags": {
+        "name": "Ane Brechó",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858251,
+      "lat": -18.9184162,
+      "lon": -48.2481222,
+      "tags": {
+        "name": "Orthobom",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858252,
+      "lat": -18.9184499,
+      "lon": -48.2480622,
+      "tags": {
+        "name": "JB Cell",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858253,
+      "lat": -18.9184641,
+      "lon": -48.2479816,
+      "tags": {
+        "shop": "lottery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858254,
+      "lat": -18.9184712,
+      "lon": -48.2479272,
+      "tags": {
+        "addr:housenumber": "1155",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "name": "Case Mania",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858255,
+      "lat": -18.9184819,
+      "lon": -48.247854,
+      "tags": {
+        "addr:housenumber": "1159",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "name": "JN Segurança Eletrônica",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858261,
+      "lat": -18.9194504,
+      "lon": -48.2414176,
+      "tags": {
+        "name": "Alan Veículos",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858265,
+      "lat": -18.9186345,
+      "lon": -48.2486531,
+      "tags": {
+        "name": "Sol Tintas",
+        "shop": "paint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858276,
+      "lat": -18.917797,
+      "lon": -48.2517967,
+      "tags": {
+        "name": "Art do Trigo",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858278,
+      "lat": -18.9178644,
+      "lon": -48.2515304,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "796",
+        "addr:postcode": "38408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "addr:suburb": "Santa Mônica",
+        "name": "Prima Clean",
+        "opening_hours": "Mo-Fr 08:00-18:30",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858281,
+      "lat": -18.9178874,
+      "lon": -48.2514253,
+      "tags": {
+        "name": "Spaço D",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858283,
+      "lat": -18.9174035,
+      "lon": -48.252063,
+      "tags": {
+        "addr:housenumber": "757",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "name": "Tokyo Eletrônicos",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012858287,
+      "lat": -18.9172363,
+      "lon": -48.2526051,
+      "tags": {
+        "addr:housenumber": "711",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "name": "Isac.com",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864292,
+      "lat": -18.9170162,
+      "lon": -48.2535514,
+      "tags": {
+        "addr:housenumber": "603",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "name": "Maqfac Ferragista",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864295,
+      "lat": -18.9167353,
+      "lon": -48.2536569,
+      "tags": {
+        "addr:street": "Rua João Velasco de Andrade",
+        "name": "Sidcar",
+        "opening_hours": "08:00-18:00",
+        "operator": "Sidney",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864297,
+      "lat": -18.9168364,
+      "lon": -48.2541087,
+      "tags": {
+        "name": "Artefatos de Cimento",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864304,
+      "lat": -18.9163217,
+      "lon": -48.2561604,
+      "tags": {
+        "name": "Natinho Cabeleireiro",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864306,
+      "lat": -18.9162619,
+      "lon": -48.2564455,
+      "tags": {
+        "addr:housenumber": "261",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "brand": "5àsec",
+        "brand:wikidata": "Q2817899",
+        "name": "5àsec",
+        "shop": "dry_cleaning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864308,
+      "lat": -18.9162956,
+      "lon": -48.2562981,
+      "tags": {
+        "name": "Imagem Salão Masculino",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864309,
+      "lat": -18.9162114,
+      "lon": -48.2566527,
+      "tags": {
+        "name": "Conceito em Fibras",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864312,
+      "lat": -18.9160903,
+      "lon": -48.2567871,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "215",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "addr:suburb": "Santa Mônica",
+        "name": "Centro Automotivo Elite",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864313,
+      "lat": -18.916052,
+      "lon": -48.2569151,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "205",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "addr:suburb": "Santa Mônica",
+        "name": "Confort Móveis",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012864315,
+      "lat": -18.9159372,
+      "lon": -48.2576535,
+      "tags": {
+        "name": "Gráfica Composer",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4013397825,
+      "lat": -18.9268877,
+      "lon": -48.2577545,
+      "tags": {
+        "name": "Multiar EPI e Ferramentas",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4013412964,
+      "lat": -18.9272082,
+      "lon": -48.2573216,
+      "tags": {
+        "name": "Nutre Cestas Básicas",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4013412965,
+      "lat": -18.9275287,
+      "lon": -48.2568322,
+      "tags": {
+        "name": "Moto Mania",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4013412966,
+      "lat": -18.9276771,
+      "lon": -48.2567444,
+      "tags": {
+        "name": "Giro Byke",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4013412967,
+      "lat": -18.9278581,
+      "lon": -48.2567004,
+      "tags": {
+        "name": "Ozânio Funilaria",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4013412968,
+      "lat": -18.9273922,
+      "lon": -48.2565404,
+      "tags": {
+        "name": "Free Style Motos",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4013412969,
+      "lat": -18.9274575,
+      "lon": -48.2564777,
+      "tags": {
+        "name": "Jairo Motos",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4013412970,
+      "lat": -18.9274901,
+      "lon": -48.2564212,
+      "tags": {
+        "name": "Salão de Festas",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869728,
+      "lat": -18.9280403,
+      "lon": -48.2662204,
+      "tags": {
+        "name": "Caiaqueiro Sports",
+        "shop": "water_sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869740,
+      "lat": -18.9273678,
+      "lon": -48.2670581,
+      "tags": {
+        "name": "Enio Motos",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869741,
+      "lat": -18.9270436,
+      "lon": -48.2675722,
+      "tags": {
+        "name": "Petshop Saraiva",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869743,
+      "lat": -18.9267138,
+      "lon": -48.2680818,
+      "tags": {
+        "name": "Moto peças",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869744,
+      "lat": -18.9267814,
+      "lon": -48.2679731,
+      "tags": {
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869745,
+      "lat": -18.9267561,
+      "lon": -48.2680163,
+      "tags": {
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869746,
+      "lat": -18.9265136,
+      "lon": -48.2684216,
+      "tags": {
+        "name": "Hamdan",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869748,
+      "lat": -18.9263544,
+      "lon": -48.2686823,
+      "tags": {
+        "name": "Saborosa",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869750,
+      "lat": -18.9261852,
+      "lon": -48.2689252,
+      "tags": {
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869751,
+      "lat": -18.9260879,
+      "lon": -48.2686809,
+      "tags": {
+        "name": "Feirão da Hora",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869753,
+      "lat": -18.9262049,
+      "lon": -48.2689774,
+      "tags": {
+        "name": "Barbearia Popular",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869754,
+      "lat": -18.9255847,
+      "lon": -48.2694751,
+      "tags": {
+        "name": "Empório da Água Mineral",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869755,
+      "lat": -18.9256397,
+      "lon": -48.2694006,
+      "tags": {
+        "name": "Empório Gracia",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869756,
+      "lat": -18.925627,
+      "lon": -48.2697075,
+      "tags": {
+        "name": "Selisa Presentes",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014869792,
+      "lat": -18.9294553,
+      "lon": -48.2663112,
+      "tags": {
+        "name": "Sacolão da Ana",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172221,
+      "lat": -18.9240261,
+      "lon": -48.2646314,
+      "tags": {
+        "name": "Lojas Nogueira",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172222,
+      "lat": -18.924594,
+      "lon": -48.2648135,
+      "tags": {
+        "name": "Lojas Nogueira",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172223,
+      "lat": -18.9243976,
+      "lon": -48.2646299,
+      "tags": {
+        "shop": "lottery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172225,
+      "lat": -18.9235764,
+      "lon": -48.2642853,
+      "tags": {
+        "name": "Peg Pag Uber-Prata",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172236,
+      "lat": -18.9220221,
+      "lon": -48.2629086,
+      "tags": {
+        "name": "Delmac",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172237,
+      "lat": -18.9216919,
+      "lon": -48.262895,
+      "tags": {
+        "name": "LCA",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172249,
+      "lat": -18.9187384,
+      "lon": -48.2617741,
+      "tags": {
+        "name": "Igui Piscinas",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172254,
+      "lat": -18.9178132,
+      "lon": -48.2619321,
+      "tags": {
+        "name": "Le Crocant",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172260,
+      "lat": -18.9150268,
+      "lon": -48.2538765,
+      "tags": {
+        "name": "Mercado da Gente",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172261,
+      "lat": -18.912351,
+      "lon": -48.2543957,
+      "tags": {
+        "name": "Auto Peças Federal",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172266,
+      "lat": -18.914786,
+      "lon": -48.2548778,
+      "tags": {
+        "addr:housenumber": "421-L1",
+        "addr:postcode": "38.408-168",
+        "addr:street": "Avenida Belarmino Cotta Pacheco",
+        "name": "Auto Elétrica Fernandes",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172268,
+      "lat": -18.9143381,
+      "lon": -48.2565982,
+      "tags": {
+        "name": "Nuance",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172270,
+      "lat": -18.9140751,
+      "lon": -48.2575868,
+      "tags": {
+        "shop": "lottery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015172271,
+      "lat": -18.9142004,
+      "lon": -48.2584645,
+      "tags": {
+        "name": "João Pé de Colchão",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015250992,
+      "lat": -18.920161,
+      "lon": -48.2501226,
+      "tags": {
+        "addr:housenumber": "570",
+        "addr:postcode": "38.408-290",
+        "addr:street": "Avenida Ana Godói de Souza",
+        "name": "Flor de Minas",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015250993,
+      "lat": -18.9205878,
+      "lon": -48.2473427,
+      "tags": {
+        "name": "Sacolão",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015250995,
+      "lat": -18.9213599,
+      "lon": -48.2454961,
+      "tags": {
+        "addr:housenumber": "1002",
+        "addr:postcode": "38.408-290",
+        "addr:street": "Avenida Ana Godói de Souza",
+        "name": "Estação do Pão",
+        "opening_hours": "Mo-Fr 06:00-20:00; Sa 06:00-19:30; Su, PH 06:00-12:00",
+        "phone": "+55 34 3226 2111",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015251000,
+      "lat": -18.9255628,
+      "lon": -48.2576087,
+      "tags": {
+        "name": "Plataforma da Beleza",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015251006,
+      "lat": -18.9245369,
+      "lon": -48.2572967,
+      "tags": {
+        "name": "Empório Santa Mônica",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4019890739,
+      "lat": -18.9079459,
+      "lon": -48.2706486,
+      "tags": {
+        "name": "Livraria Nossa Senhora Aparecida",
+        "shop": "religion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4019890740,
+      "lat": -18.9103329,
+      "lon": -48.2720145,
+      "tags": {
+        "name": "Fantoche",
+        "shop": "party"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4019891505,
+      "lat": -18.9276428,
+      "lon": -48.2501007,
+      "tags": {
+        "name": "Hyundai",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4019891506,
+      "lat": -18.9281141,
+      "lon": -48.2478136,
+      "tags": {
+        "name": "Toyota",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021850348,
+      "lat": -18.9059634,
+      "lon": -48.2584218,
+      "tags": {
+        "name": "Uirapuru",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4055452436,
+      "lat": -18.900821,
+      "lon": -48.2524841,
+      "tags": {
+        "shop": "lottery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4060215914,
+      "lat": -18.903932,
+      "lon": -48.2487491,
+      "tags": {
+        "name": "Europães",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4063947949,
+      "lat": -18.9375609,
+      "lon": -48.3001799,
+      "tags": {
+        "shop": "lottery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4067225734,
+      "lat": -18.9255292,
+      "lon": -48.2951266,
+      "tags": {
+        "name": "Ângelo Cunha - Unidade Getúlio Vargas",
+        "shop": "funeral_directors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225910923,
+      "lat": -18.9299683,
+      "lon": -48.2791163,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "641",
+        "addr:postcode": "38400-162",
+        "addr:street": "Rua Augusto César",
+        "addr:suburb": "Lídice",
+        "amenity": "veterinary",
+        "internet_access": "wlan",
+        "name": "VetClin - Pet Shop, Clínica Veterinária e Hotelzinho",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
+        "phone": "+55 34 3237 6685",
+        "shop": "pet",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.vetclin.org/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4230559190,
+      "lat": -18.9165489,
+      "lon": -48.2600747,
+      "tags": {
+        "addr:housenumber": "1910",
+        "addr:postcode": "38408-016",
+        "addr:street": "Avenida João Naves de Ávila",
+        "email": "isacar.tbg@hotmail.com",
+        "internet_access": "wlan",
+        "name": "Isacar Auto Center",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "3432236632",
+        "shop": "car_repair",
+        "website": "www.fb.com.br/isacarautocenter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4319684438,
+      "lat": -19.0507087,
+      "lon": -47.9471285,
+      "tags": {
+        "name": "Mercearia do Odilon",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4398334769,
+      "lat": -18.8874343,
+      "lon": -48.4501469,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:state": "MG",
+        "addr:street": "BR 365",
+        "amenity": "fuel",
+        "name": "Posto Laranjeiras",
+        "shop": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469476289,
+      "lat": -18.8877292,
+      "lon": -48.2619081,
+      "tags": {
+        "addr:housenumber": "1343",
+        "addr:postcode": "38400-734",
+        "addr:street": "Avenida Amazonas",
+        "name": "Centro automotivo 34Racing",
+        "name:pt": "Centro automotivo 34Racing",
+        "opening_hours": "Su-Fr 08:00-18:00; Sa 08:00-12:00",
+        "phone": "034996717855",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540012990,
+      "lat": -18.8962252,
+      "lon": -48.2631096,
+      "tags": {
+        "addr:housenumber": "3230",
+        "addr:street": "Avenida João Pinheiro",
+        "name": "Supervisão Uberlândia MG",
+        "name:pt": "Supervisão Uberlândia MG",
+        "opening_hours": "Su-Fr 09:00-06:00; Sa 09:00-12:00",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4547174289,
+      "lat": -18.9234553,
+      "lon": -48.1846187,
+      "tags": {
+        "addr:housenumber": "km 612",
+        "addr:street": "BR-365",
+        "name": "Leilao Brasil",
+        "name:pt": "Leilao Brasil",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4610711089,
+      "lat": -18.943369,
+      "lon": -48.3021012,
+      "tags": {
+        "addr:housenumber": "85",
+        "addr:postcode": "38412-104",
+        "addr:street": "Rua das Flamboyants",
+        "email": "contato@magicprint.net.br",
+        "name": "Magic Print",
+        "opening_hours": "Mo-Fr 08:30-18:00",
+        "phone": "3432102303",
+        "shop": "copyshop",
+        "website": "http://www.magicprint.net.br"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4612183190,
+      "lat": -18.9691193,
+      "lon": -48.212659,
+      "tags": {
+        "addr:street": "ANEL VIÁRIO",
+        "name": "Pesque Pague Aquarius",
+        "opening_hours": "Th-Tu 09:00-18:00",
+        "shop": "seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4690469591,
+      "lat": -18.9316188,
+      "lon": -48.2516941,
+      "tags": {
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5327840485,
+      "lat": -18.9219618,
+      "lon": -48.2764685,
+      "tags": {
+        "name": "Garden Avenida",
+        "shop": "florist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5327840488,
+      "lat": -18.9213177,
+      "lon": -48.2763267,
+      "tags": {
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5327853656,
+      "lat": -18.9238186,
+      "lon": -48.2775635,
+      "tags": {
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5327879556,
+      "lat": -18.9225479,
+      "lon": -48.2772149,
+      "tags": {
+        "name": "Grão Divino",
+        "organic": "only",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5343297965,
+      "lat": -18.9203394,
+      "lon": -48.2771259,
+      "tags": {
+        "name": "C&A",
+        "shop": "fashion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5343297966,
+      "lat": -18.9201237,
+      "lon": -48.2774525,
+      "tags": {
+        "name": "Chofi",
+        "shop": "fashion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5343307870,
+      "lat": -18.9224496,
+      "lon": -48.2756162,
+      "tags": {
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5343307872,
+      "lat": -18.9225312,
+      "lon": -48.2758072,
+      "tags": {
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484829711,
+      "lat": -18.9233206,
+      "lon": -48.2514351,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "111",
+        "addr:postcode": "38.408-184",
+        "addr:street": "Avenida Doutor Misael Rodrigues de Castro",
+        "addr:suburb": "Santa Mônica",
+        "name": "Barbearia Samuel Santos",
+        "opening_hours": "Mo 12:30-20:00; Tu-Sa 08:30-12:00, 13:00-20:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5830462899,
+      "lat": -18.9159227,
+      "lon": -48.2577793,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "105",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "addr:suburb": "Santa Mônica",
+        "name": "Copytri",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5873495857,
+      "lat": -18.913866,
+      "lon": -48.2440713,
+      "tags": {
+        "addr:housenumber": "1111",
+        "addr:postcode": "38.408-261",
+        "addr:street": "Avenida Salomão Abrahão",
+        "name": "Casa de Carnes 18",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5873495858,
+      "lat": -18.9138059,
+      "lon": -48.2442943,
+      "tags": {
+        "addr:housenumber": "1049",
+        "addr:postcode": "38.408-261",
+        "addr:street": "Avenida Salomão Abrahão",
+        "name": "Peg Pag Primo",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5873521544,
+      "lat": -18.915804,
+      "lon": -48.2448562,
+      "tags": {
+        "addr:housenumber": "1412",
+        "addr:postcode": "38.408-263",
+        "addr:street": "Avenida Ortízio Borges",
+        "name": "Planeta Modas",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5873538729,
+      "lat": -18.9172838,
+      "lon": -48.2453011,
+      "tags": {
+        "addr:housenumber": "1451",
+        "addr:postcode": "38.408-168",
+        "addr:street": "Avenida Belarmino Cotta Pacheco",
+        "name": "New Style Barbershop",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5873540461,
+      "lat": -18.917441,
+      "lon": -48.245648,
+      "tags": {
+        "addr:housenumber": "1382",
+        "addr:postcode": "38.408-168",
+        "addr:street": "Avenida Belarmino Cotta Pacheco",
+        "name": "Ponto da Limpeza",
+        "operator": "Start",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5873576918,
+      "lat": -18.9190469,
+      "lon": -48.2455749,
+      "tags": {
+        "addr:housenumber": "1511",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "name": "Tático Force",
+        "shop": "weapons"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886333077,
+      "lat": -18.9178615,
+      "lon": -48.277311,
+      "tags": {
+        "name": "Reikol",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886337418,
+      "lat": -18.9032788,
+      "lon": -48.2665098,
+      "tags": {
+        "name": "Centro Eletrônico",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886349270,
+      "lat": -18.9080151,
+      "lon": -48.2683914,
+      "tags": {
+        "name": "Floriano Móveis Usados",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886350386,
+      "lat": -18.9065582,
+      "lon": -48.2689655,
+      "tags": {
+        "name": "Ponto Eletrônico",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886361388,
+      "lat": -18.9150628,
+      "lon": -48.2736127,
+      "tags": {
+        "name": "Lojas Paulista",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5898104875,
+      "lat": -18.9221398,
+      "lon": -48.2805151,
+      "tags": {
+        "name": "Charmosa Cosméticos",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902873688,
+      "lat": -18.9214761,
+      "lon": -48.2799307,
+      "tags": {
+        "name": "Guida's Shoes",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902878185,
+      "lat": -18.9211109,
+      "lon": -48.2800419,
+      "tags": {
+        "name": "Casas Bahia",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902881185,
+      "lat": -18.9195094,
+      "lon": -48.2788162,
+      "tags": {
+        "addr:housenumber": "93",
+        "addr:postcode": "38.400-186",
+        "addr:street": "Praça Tubal Vilela",
+        "name": "Ricardo Eletro",
+        "shop": "appliance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902881186,
+      "lat": -18.9193662,
+      "lon": -48.2787158,
+      "tags": {
+        "name": "Eletrosom",
+        "shop": "appliance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902884127,
+      "lat": -18.9180508,
+      "lon": -48.2778056,
+      "tags": {
+        "addr:housenumber": "617",
+        "addr:postcode": "38.400-130",
+        "addr:street": "Avenida Afonso Pena",
+        "clothes": "women",
+        "name": "Marisa",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902893183,
+      "lat": -18.916049,
+      "lon": -48.2776737,
+      "tags": {
+        "addr:housenumber": "860",
+        "addr:postcode": "38.400-126",
+        "addr:street": "Avenida João Pinheiro",
+        "name": "Livraria SBS",
+        "phone": "+55 34 3224 0444",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902895655,
+      "lat": -18.9134016,
+      "lon": -48.2743822,
+      "tags": {
+        "name": "Móveis RB",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902898380,
+      "lat": -18.9114487,
+      "lon": -48.2728349,
+      "tags": {
+        "mattress": "yes",
+        "name": "Dormire Colchões",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902898426,
+      "lat": -18.9089534,
+      "lon": -48.2707186,
+      "tags": {
+        "name": "Papelaria Comercial",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902899726,
+      "lat": -18.9108441,
+      "lon": -48.2721122,
+      "tags": {
+        "name": "Sacolão Center",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902901121,
+      "lat": -18.9101657,
+      "lon": -48.2716334,
+      "tags": {
+        "mattress": "yes",
+        "name": "Anjos Colchões",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902909187,
+      "lat": -18.9054222,
+      "lon": -48.2664944,
+      "tags": {
+        "name": "Armazém Móveis & Design",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5902909488,
+      "lat": -18.9055744,
+      "lon": -48.266313,
+      "tags": {
+        "name": "Moto 10",
+        "operator": "Kawasaki",
+        "shop": "motorcycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5907322684,
+      "lat": -18.9143829,
+      "lon": -48.2589929,
+      "tags": {
+        "name": "Casa do Salgado",
+        "shop": "pastry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5907327204,
+      "lat": -18.9154056,
+      "lon": -48.259197,
+      "tags": {
+        "name": "Casa das Cortinas",
+        "shop": "curtain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5907338050,
+      "lat": -18.9121337,
+      "lon": -48.26518,
+      "tags": {
+        "name": "Monobloco Centro Automotivo",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5907339186,
+      "lat": -18.9116006,
+      "lon": -48.2642612,
+      "tags": {
+        "addr:housenumber": "1034",
+        "addr:postcode": "38.400-053",
+        "addr:street": "Avenida João Naves de Ávila",
+        "name": "Evidence Cabelo & Pele",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5920289002,
+      "lat": -18.9077962,
+      "lon": -48.2527196,
+      "tags": {
+        "addr:housenumber": "780",
+        "addr:postcode": "38.405-024",
+        "addr:street": "Avenida Suiça",
+        "drink:coconut_water": "yes",
+        "name": "Ubercoco",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5920357153,
+      "lat": -18.9190615,
+      "lon": -48.2765718,
+      "tags": {
+        "name": "O Boticário",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5923955624,
+      "lat": -18.9162997,
+      "lon": -48.2500922,
+      "tags": {
+        "addr:housenumber": "870",
+        "addr:postcode": "38.408-168",
+        "addr:street": "Avenida Belarmino Cotta Pacheco",
+        "name": "A Casa dos Filtros",
+        "shop": "water"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5923965812,
+      "lat": -18.9158465,
+      "lon": -48.244864,
+      "tags": {
+        "name": "Criative Presentes Personalizados",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5940741419,
+      "lat": -18.9223753,
+      "lon": -48.2475493,
+      "tags": {
+        "name": "Bolos do Neto",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 07:30-13:30",
+        "shop": "pastry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5941496651,
+      "lat": -18.916905,
+      "lon": -48.2539645,
+      "tags": {
+        "addr:housenumber": "575",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "name": "Ágile Copiadora",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957373004,
+      "lat": -18.9142502,
+      "lon": -48.2567586,
+      "tags": {
+        "name": "Copiadora Santa Mônica",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957373005,
+      "lat": -18.9145308,
+      "lon": -48.2568559,
+      "tags": {
+        "addr:housenumber": "200",
+        "addr:postcode": "38.408-168",
+        "addr:street": "Avenida Belarmino Cotta Pacheco",
+        "name": "Papelaria Santa Mônica",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957531086,
+      "lat": -18.9213985,
+      "lon": -48.2802652,
+      "tags": {
+        "name": "Zema",
+        "shop": "appliance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957531087,
+      "lat": -18.9200556,
+      "lon": -48.2792159,
+      "tags": {
+        "name": "Eletrosom",
+        "shop": "appliance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957531090,
+      "lat": -18.9198419,
+      "lon": -48.2790609,
+      "tags": {
+        "name": "Cristal Perfumaria e Cosméticos",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957531091,
+      "lat": -18.9197331,
+      "lon": -48.2789671,
+      "tags": {
+        "name": "Instituto Embelleze",
+        "phone": "+55 34 3210 6555",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957531092,
+      "lat": -18.9192209,
+      "lon": -48.2785866,
+      "tags": {
+        "name": "Ótica Gaúcha",
+        "shop": "optician"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957531094,
+      "lat": -18.9166907,
+      "lon": -48.2767143,
+      "tags": {
+        "name": "Perpétua Perfumaria e Cosméticos",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5957531095,
+      "lat": -18.9161233,
+      "lon": -48.2763021,
+      "tags": {
+        "name": "Kazzu Azzee",
+        "shop": "shoes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5960399656,
+      "lat": -18.9171952,
+      "lon": -48.2771876,
+      "tags": {
+        "name": "Lojas Americanas",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5999228492,
+      "lat": -18.9115606,
+      "lon": -48.2640879,
+      "tags": {
+        "name": "Bicicletaria Monark",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001755580,
+      "lat": -18.9119426,
+      "lon": -48.2389306,
+      "tags": {
+        "drink:coconut_water": "yes",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001756337,
+      "lat": -18.9113734,
+      "lon": -48.2414631,
+      "tags": {
+        "drink:coconut_water": "yes",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001787193,
+      "lat": -18.9196001,
+      "lon": -48.2450188,
+      "tags": {
+        "name": "Barbearia Andrade",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001806243,
+      "lat": -18.9229202,
+      "lon": -48.24666,
+      "tags": {
+        "addr:housenumber": "794",
+        "addr:postcode": "38.408-176",
+        "addr:street": "Avenida Doutor Laerte Vieira Gonçalves",
+        "name": "Sacolão da Márcia",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001806245,
+      "lat": -18.9227949,
+      "lon": -48.2471519,
+      "tags": {
+        "addr:housenumber": "740",
+        "addr:postcode": "38.408-176",
+        "addr:street": "Avenida Doutor Laerte Vieira Gonçalves",
+        "name": "Afiações Mundial",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6051168910,
+      "lat": -18.9289781,
+      "lon": -48.2781104,
+      "tags": {
+        "name": "Barroca Almofadas",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6127121264,
+      "lat": -18.9147621,
+      "lon": -48.2549549,
+      "tags": {
+        "addr:housenumber": "421-L2",
+        "addr:postcode": "38.408-168",
+        "addr:street": "Avenida Belarmino Cotta Pacheco",
+        "name": "Amorim Distribuidora",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6130260636,
+      "lat": -18.911808,
+      "lon": -48.2614365,
+      "tags": {
+        "name": "Zum Interiores",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6130260637,
+      "lat": -18.911828,
+      "lon": -48.2612559,
+      "tags": {
+        "name": "Atmosfera Ambientes Planejados",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6238706392,
+      "lat": -18.9185993,
+      "lon": -48.2473967,
+      "tags": {
+        "name": "Brechó Estilo",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6245836263,
+      "lat": -18.927557,
+      "lon": -48.2508561,
+      "tags": {
+        "brand": "Nissan",
+        "name": "Nissan",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6250506609,
+      "lat": -18.931685,
+      "lon": -48.2272299,
+      "tags": {
+        "name": "Uber Celulares e Acessórios",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6258942208,
+      "lat": -18.9190382,
+      "lon": -48.2780926,
+      "tags": {
+        "name": "Ponto Frio",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6258942210,
+      "lat": -18.9206545,
+      "lon": -48.2793398,
+      "tags": {
+        "name": "Magazine Luiza",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6258942211,
+      "lat": -18.9215375,
+      "lon": -48.2802773,
+      "tags": {
+        "name": "Mega Jeans",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6266385593,
+      "lat": -18.9168244,
+      "lon": -48.2483348,
+      "tags": {
+        "shop": "pastry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6266385615,
+      "lat": -18.9239301,
+      "lon": -48.2489732,
+      "tags": {
+        "name": "Lavanderia Universal",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6266385616,
+      "lat": -18.923887,
+      "lon": -48.2491368,
+      "tags": {
+        "name": "Estúdio da Beleza",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6266385621,
+      "lat": -18.9258076,
+      "lon": -48.2488029,
+      "tags": {
+        "name": "Engenharia do Pão Padaria e Distribuidora",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6270559265,
+      "lat": -18.9303492,
+      "lon": -48.2451645,
+      "tags": {
+        "name": "Piter Pão II",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6270602913,
+      "lat": -18.9287723,
+      "lon": -48.2449593,
+      "tags": {
+        "name": "Ultragaz",
+        "shop": "gas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6270602932,
+      "lat": -18.915812,
+      "lon": -48.2519317,
+      "tags": {
+        "name": "Stylecuts Brazil Barbearia",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6270602937,
+      "lat": -18.9166375,
+      "lon": -48.2549963,
+      "tags": {
+        "name": "London Barbearia",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6302571534,
+      "lat": -18.9381045,
+      "lon": -48.3156527,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:street": "Secretaria",
+        "addr:suburb": "Planalto",
+        "name": "Supermercado Bessa",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:telephone_cards": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6348293766,
+      "lat": -18.9215642,
+      "lon": -48.2359897,
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "2411",
+        "addr:postcode": "38408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "addr:suburb": "Santa Mônica",
+        "name": "Leal Supermercados",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+55 (34) 3255-6658",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6436548192,
+      "lat": -18.9412484,
+      "lon": -48.3410273,
+      "tags": {
+        "name": "supermecado comigo",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6436593440,
+      "lat": -18.9209691,
+      "lon": -48.2738661,
+      "tags": {
+        "name": "Doce Mania",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30621186,
+      "nodes": [
+        338653717,
+        338653815,
+        4735171431,
+        4735171432,
+        4735171430,
+        4735171429,
+        338653808,
+        338653802,
+        338653795,
+        338653790,
+        338653784,
+        4019890692,
+        6130260657,
+        6130260658,
+        6233832125,
+        6130260656,
+        6233832126,
+        6130260655,
+        338653762,
+        6233832127,
+        338653756,
+        338653749,
+        6233832128,
+        338653740,
+        338653734,
+        338653730,
+        338653723,
+        338653717
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Center Shopping",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 153081707,
+      "nodes": [
+        1658238776,
+        1658238779,
+        1658238781,
+        1658238782,
+        1658238792,
+        1658238793,
+        1658238795,
+        1658238796,
+        1658238797,
+        1658238798,
+        1658238800,
+        1658238803,
+        1658238776
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Assaí Atacadista",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su, PH 07:00-18:00",
+        "shop": "supermarket",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 154252439,
+      "nodes": [
+        1668155081,
+        1668155082,
+        1668155083,
+        1668155084,
+        1668155085,
+        1668155088,
+        1668155089,
+        1668155090,
+        1668155091,
+        1668155092,
+        1668155093,
+        1668155094,
+        1668155095,
+        1668155096,
+        1668155097,
+        1668155098,
+        1668155081
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "mall",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258090403,
+      "nodes": [
+        3044895772,
+        3044895773,
+        2635011885,
+        2635011886,
+        3044895772
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "SuperMaxi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 300945436,
+      "nodes": [
+        3050521929,
+        3050521930,
+        3050521931,
+        3050521932,
+        3050522233,
+        6233832117,
+        3050522234,
+        3050522235,
+        3050522236,
+        3050522237,
+        3050522238,
+        3050522239,
+        3050522240,
+        3050522241,
+        3050522242,
+        3050522243,
+        3050522244,
+        3050521929
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Carrefour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 300945949,
+      "nodes": [
+        3097784757,
+        4012858238,
+        3050525328,
+        4012858236,
+        4012858233,
+        3097784756,
+        3097784757
+      ],
+      "tags": {
+        "addr:housenumber": "1040",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "building": "yes",
+        "name": "Valor",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+55 34 3218 5598",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 300947218,
+      "nodes": [
+        3050538448,
+        3050538449,
+        3050538450,
+        3050538451,
+        3050538452,
+        3050538453,
+        3050538454,
+        3050538455,
+        3050538456,
+        3050538448
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bretas",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303771774,
+      "nodes": [
+        3081766320,
+        3081766321,
+        3081766322,
+        3081766323,
+        3081766320
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Cristo Rei",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303772789,
+      "nodes": [
+        3081793623,
+        3081793624,
+        3081793625,
+        3081793626,
+        3081793623
+      ],
+      "tags": {
+        "name": "Honda Trivel",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303774332,
+      "nodes": [
+        3081837017,
+        3081837018,
+        3081837019,
+        3081837020,
+        3081837017
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Valor",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303774821,
+      "nodes": [
+        3081843164,
+        3081843165,
+        3081843166,
+        3081843167,
+        3081843164
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Decc",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303780891,
+      "nodes": [
+        3081942229,
+        3081942230,
+        3081942231,
+        3081942232,
+        3081945533,
+        3081945534,
+        3081942229
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bretas (Luizote)",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303790903,
+      "nodes": [
+        3082168346,
+        3082168347,
+        3082168348,
+        3082168349,
+        3082168346
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "100% Video",
+        "shop": "video"
+      }
+    },
+    {
+      "type": "way",
+      "id": 303967940,
+      "nodes": [
+        3084835725,
+        3084835726,
+        3084835727,
+        3084835728,
+        3084835729,
+        3084835730,
+        3084835731,
+        3084835732,
+        3084835725
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bretas",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305162616,
+      "nodes": [
+        3097441147,
+        3097441149,
+        3097441150,
+        3097441151,
+        3097441152,
+        3097441153,
+        3097441154,
+        3097441155,
+        3097441156,
+        3097441147
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bretas",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305162617,
+      "nodes": [
+        3097441157,
+        3097441158,
+        3097441159,
+        3097441160,
+        3097441161,
+        3097441162,
+        3097441157
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bahamas Supermercado",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305168221,
+      "nodes": [
+        3347665871,
+        3347665870,
+        3347665874,
+        3347665869,
+        3097492351,
+        3097492352,
+        3347665867,
+        3347665868,
+        3347665865,
+        3347665864,
+        3347665861,
+        3347665860,
+        3347665855,
+        3347665856,
+        3347665854,
+        3347665857,
+        3347665853,
+        3347665859,
+        3347665862,
+        3347665863,
+        3347665871
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Atacadão",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305171840,
+      "nodes": [
+        3097528280,
+        3097528281,
+        3097528282,
+        3097528283,
+        3097528280
+      ],
+      "tags": {
+        "building": "supermarket",
+        "name": "Supermercado Sinhá",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305171845,
+      "nodes": [
+        3097528310,
+        3097528311,
+        3097528312,
+        3097528313,
+        4019890742,
+        3097528314,
+        4019890741,
+        3097528315,
+        3097528316,
+        3097528317,
+        3097528310
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Via Centro Shopping",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-16:00",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305171846,
+      "nodes": [
+        3097528318,
+        3097528319,
+        3097528320,
+        3097528321,
+        3097528322,
+        3097528323,
+        3097528325,
+        3097528326,
+        3097528318
+      ],
+      "tags": {
+        "building": "supermarket",
+        "name": "Supermercado Bretas",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 305174686,
+      "nodes": [
+        3097567336,
+        3097567337,
+        3097567338,
+        3097567339,
+        3097567336
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Brasil Norte",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 327576580,
+      "nodes": [
+        3343856338,
+        3343856337,
+        3343856334,
+        3343856335,
+        3343856338
+      ],
+      "tags": {
+        "name": "Lunasa",
+        "shop": "supermarket",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 328761868,
+      "nodes": [
+        3355862600,
+        3355862264,
+        3355862263,
+        3355862275,
+        3355862277,
+        3355862602,
+        3355862600
+      ],
+      "tags": {
+        "name": "Bretas",
+        "shop": "supermarket",
+        "source": "knowledge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 329583526,
+      "nodes": [
+        3364716785,
+        4795631153,
+        4795631154,
+        3364716787,
+        3364716786,
+        4795631155,
+        3364716788,
+        3364716784,
+        3364716778,
+        3364716783,
+        3364716782,
+        3364716780,
+        3364716781,
+        3364716779,
+        3364716777,
+        3364716776,
+        3364716775,
+        4795631156,
+        4795631157,
+        4795631158,
+        3364716785
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Uberlândia Shopping",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 330168502,
+      "nodes": [
+        3371222713,
+        3371222712,
+        3371222710,
+        3371222711,
+        3371222713
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shell",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 333424555,
+      "nodes": [
+        3405378789,
+        3405378788,
+        3405378786,
+        3405378787,
+        3405378789
+      ],
+      "tags": {
+        "name": "Bretas",
+        "shop": "supermarket",
+        "source": "Bing;knowledge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 346304781,
+      "nodes": [
+        3528425291,
+        3528425292,
+        3528425293,
+        3528425294,
+        3528425291
+      ],
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "110",
+        "addr:postcode": "38408-288",
+        "addr:street": "Avenida Fernando Vilela",
+        "addr:suburb": "Martins",
+        "building": "yes",
+        "name": "Proalfa",
+        "operator": "Proalfa comercio e distribuicao ltda",
+        "phone": "+55 (34) 3236-3067",
+        "shop": "confectionery",
+        "source": "Bing;recipt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398409719,
+      "nodes": [
+        4011701156,
+        4011701157,
+        4011701158,
+        4011701159,
+        4011701156
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Metal Nobre Acabamentos",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398409720,
+      "nodes": [
+        4011701156,
+        4011701160,
+        4011701161,
+        4011701159,
+        4011701156
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Moveral",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398409721,
+      "nodes": [
+        4011701162,
+        4011701163,
+        4011701164,
+        4011701165,
+        4011701162
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Só Compensados",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398409722,
+      "nodes": [
+        4011701166,
+        4011701167,
+        4011701168,
+        4011701169,
+        4011701166
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Miramontes",
+        "shop": "fabric"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398409724,
+      "nodes": [
+        4011701186,
+        4011701187,
+        4011701188,
+        4011704389,
+        4011704390,
+        4011704391,
+        4011701186
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Camelódromo",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398409725,
+      "nodes": [
+        4011704392,
+        4011704393,
+        4011704394,
+        4011704395,
+        4011704392
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Camelódromo Central",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398409738,
+      "nodes": [
+        4011704488,
+        6130259951,
+        4011704490,
+        4011704491,
+        4011704493,
+        6130259952,
+        4011704492,
+        4011704487,
+        6130259950,
+        4011704488
+      ],
+      "tags": {
+        "building": "commercial",
+        "name": "Griff Shopping",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398537150,
+      "nodes": [
+        4012858222,
+        4012858223,
+        4012858224,
+        4012858225,
+        4012858226,
+        4012858227,
+        4012858222
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Shopping C&A",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398537156,
+      "nodes": [
+        4012858271,
+        4012858274,
+        4012858275,
+        4012858272,
+        4012858271
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Sacolão Center",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398776105,
+      "nodes": [
+        4015172208,
+        4015172209,
+        4015172210,
+        4015172211,
+        4015172208
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Sacolão Dia a Dia",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398776106,
+      "nodes": [
+        4015172208,
+        4015172212,
+        4015172213,
+        4015172214,
+        4015172210,
+        4015172211,
+        4015172208
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Sinhá",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398776108,
+      "nodes": [
+        4015172226,
+        4015172227,
+        4015172228,
+        4015172229,
+        4015172226
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Smart",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398776109,
+      "nodes": [
+        4015172230,
+        4015172231,
+        4015172232,
+        4015172233,
+        4015172230
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Aquarela",
+        "shop": "paint"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399250730,
+      "nodes": [
+        4019890692,
+        6130260657,
+        4019890693,
+        4019890694,
+        6130260653,
+        6130260654,
+        338653784,
+        4019890692
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Tok Stok",
+        "shop": "houseware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 403686616,
+      "nodes": [
+        4060215682,
+        4060215683,
+        4060215684,
+        4060215685,
+        4060215686,
+        4060215687,
+        4060215682
+      ],
+      "tags": {
+        "addr:city": "uberlandia",
+        "addr:housenumber": "955",
+        "addr:postcode": "38410904",
+        "addr:street": "Avenida Seme Simão",
+        "addr:suburb": "buritis",
+        "building": "yes",
+        "name": "Bretas",
+        "operator": "Supermercado",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 403686618,
+      "nodes": [
+        4060215895,
+        4060215896,
+        4060215897,
+        4060215898,
+        4060215895
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bahamas",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 457749805,
+      "nodes": [
+        4538496115,
+        4538496116,
+        4538496117,
+        4538496118,
+        4538496115
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bretas Supermercado",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 616740919,
+      "nodes": [
+        5830419772,
+        5830419774,
+        5830419775,
+        5830419773,
+        5830419772
+      ],
+      "tags": {
+        "addr:housenumber": "646",
+        "addr:postcode": "38.408-290",
+        "addr:street": "Avenida Ana Godói de Souza",
+        "name": "Linda Mulher",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "way",
+      "id": 616740920,
+      "nodes": [
+        5830419774,
+        5830419776,
+        5830419777,
+        5830419775,
+        5830419774
+      ],
+      "tags": {
+        "addr:housenumber": "634",
+        "addr:postcode": "38.408-290",
+        "addr:street": "Avenida Ana Godói de Souza",
+        "name": "Antonieta",
+        "phone": "+55 34 3214 2940",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 616740944,
+      "nodes": [
+        5830420701,
+        5830420707,
+        6114188505,
+        6114188503,
+        5830420701
+      ],
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "517",
+        "addr:postcode": "38.408-176",
+        "addr:street": "Avenida Doutor Laerte Vieira Gonçalves",
+        "addr:suburb": "Santa Mônica",
+        "name": "Vêm de Minas",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619889486,
+      "nodes": [
+        5857333291,
+        5857333293,
+        5857333294,
+        5857333295,
+        5857333291
+      ],
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "1248",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "addr:suburb": "Santa Mônica",
+        "building": "yes",
+        "name": "Lamonier",
+        "phone": "+55 34 3210-2010",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619889487,
+      "nodes": [
+        5857333296,
+        6270602929,
+        5857333293,
+        5857333294,
+        5857333297,
+        6270602930,
+        5857333296
+      ],
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "849",
+        "addr:postcode": "38.408-222",
+        "addr:street": "Rua José Miguel Saramago",
+        "addr:suburb": "Santa Mônica",
+        "name": "Eletromac",
+        "shop": "electrical"
+      }
+    },
+    {
+      "type": "way",
+      "id": 619890238,
+      "nodes": [
+        5857333450,
+        5857333451,
+        5857333452,
+        5857333453,
+        5857333450
+      ],
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "723",
+        "addr:postcode": "38.408-290",
+        "addr:street": "Avenida Ana Godói de Souza",
+        "addr:suburb": "Santa Mônica",
+        "building": "yes",
+        "name": "Mega Fest",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "way",
+      "id": 621752851,
+      "nodes": [
+        5873521539,
+        5873521540,
+        5873521541,
+        5873521542,
+        5873521539
+      ],
+      "tags": {
+        "name": "Magazine Mendes",
+        "shop": "clothes;shoes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 621758281,
+      "nodes": [
+        5857315689,
+        5873576919,
+        5873576920,
+        5873576921,
+        5857315689
+      ],
+      "tags": {
+        "addr:housenumber": "1395",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "building": "yes",
+        "name": "Central Móveis",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "way",
+      "id": 621758297,
+      "nodes": [
+        4015250994,
+        5873576961,
+        5873576962,
+        5873576960,
+        4015250994
+      ],
+      "tags": {
+        "addr:housenumber": "837",
+        "addr:postcode": "38.408-290",
+        "addr:street": "Avenida Ana Godói de Souza",
+        "name": "Elétrica Morbeck",
+        "shop": "electrical"
+      }
+    },
+    {
+      "type": "way",
+      "id": 622534692,
+      "nodes": [
+        5880196786,
+        5880196787,
+        5880196788,
+        5880196789,
+        5880196786
+      ],
+      "tags": {
+        "addr:housenumber": "571",
+        "addr:postcode": "38.408-290",
+        "addr:street": "Avenida Ana Godói de Souza",
+        "name": "Sobrancelha e Depilação",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "way",
+      "id": 622828577,
+      "nodes": [
+        5882420989,
+        5882420990,
+        5882420991,
+        5882420992,
+        5882420989
+      ],
+      "tags": {
+        "addr:housenumber": "620",
+        "addr:postcode": "38.408-102",
+        "addr:street": "Avenida Francisco Vicente Ferreira",
+        "name": "Tano Cópias",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "way",
+      "id": 622828579,
+      "nodes": [
+        5882420995,
+        5882420997,
+        5882420998,
+        5882420994,
+        5882420995
+      ],
+      "tags": {
+        "addr:housenumber": "660",
+        "addr:postcode": "38408-102",
+        "addr:street": "Avenida Francisco Vicente Ferreira",
+        "name": "Black Chick",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "way",
+      "id": 622830004,
+      "nodes": [
+        5882431960,
+        5882431961,
+        5882431962,
+        5882431963,
+        5882431960
+      ],
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:postcode": "38.408-176",
+        "addr:street": "Avenida Doutor Laerte Vieira Gonçalves",
+        "name": "Nova Estação",
+        "opening_hours": "Mo-Fr 06:00-20:00; Sa 06:00-19:30; Su, PH 06:00-12:00",
+        "phone": "+55 34 3222 5314",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 622831492,
+      "nodes": [
+        5882448024,
+        5882448026,
+        5882448027,
+        5882448025,
+        5882448024
+      ],
+      "tags": {
+        "addr:housenumber": "270",
+        "addr:postcode": "38.408-176",
+        "addr:street": "Avenida Doutor Laerte Vieira Gonçalves",
+        "name": "Regina Cabeleireiros",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625469977,
+      "nodes": [
+        5905462805,
+        5905462806,
+        5905462807,
+        5905462808,
+        5905462805
+      ],
+      "tags": {
+        "name": "TL Centro Automotivo",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625470032,
+      "nodes": [
+        5905463475,
+        5905463476,
+        5905463477,
+        5905463478,
+        5905463475
+      ],
+      "tags": {
+        "name": "Ultragaz",
+        "phone": "+55 34 3236 3030",
+        "shop": "gas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625663153,
+      "nodes": [
+        5907229580,
+        5907229581,
+        5907229582,
+        5907229583,
+        5907229580
+      ],
+      "tags": {
+        "addr:housenumber": "636",
+        "addr:postcode": "38.408-176",
+        "addr:street": "Avenida Doutor Laerte Vieira Gonçalves",
+        "name": "junior.com Barbearia",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625671312,
+      "nodes": [
+        5907316346,
+        5907316347,
+        5907316348,
+        5907316349,
+        5907316346
+      ],
+      "tags": {
+        "addr:housenumber": "477",
+        "addr:postcode": "38.400-097",
+        "addr:street": "Avenida João Naves de Ávila",
+        "name": "Udibis Cartuchos",
+        "shop": "printer_ink"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625672600,
+      "nodes": [
+        5484805535,
+        5907327087,
+        5907327088,
+        5484805532,
+        5484805535
+      ],
+      "tags": {
+        "name": "Mundo Animal",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625673499,
+      "nodes": [
+        5907337422,
+        5907337423,
+        5907337424,
+        5907337425,
+        5907337422
+      ],
+      "tags": {
+        "brand": "Ipiranga",
+        "shop": "fuel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625765491,
+      "nodes": [
+        5908109744,
+        5908109743,
+        5908109745,
+        5908109746,
+        5908109744
+      ],
+      "tags": {
+        "addr:housenumber": "202",
+        "addr:postcode": "38.408-226",
+        "addr:street": "Rua Alberto Alves Cabral",
+        "name": "Sabiá Livros",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 625767047,
+      "nodes": [
+        5873521550,
+        5873521548,
+        5873521547,
+        5908122390,
+        5908122391,
+        5873521550
+      ],
+      "tags": {
+        "addr:housenumber": "613",
+        "addr:postcode": "38.408-226",
+        "addr:street": "Rua Alberto Alves Cabral",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "way",
+      "id": 627138072,
+      "nodes": [
+        3916710742,
+        5920329057,
+        5920329058,
+        5920329059,
+        3916710742
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Supermercado D'Ville",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 627141698,
+      "nodes": [
+        5920357149,
+        5920357150,
+        5920357151,
+        5920357152,
+        5920357149
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Cristal Perfumaria e Cosméticos",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "way",
+      "id": 627547577,
+      "nodes": [
+        6114251123,
+        6114251122,
+        5874296840,
+        5923941029,
+        6114251123
+      ],
+      "tags": {
+        "addr:housenumber": "765",
+        "addr:postcode": "38.408-290",
+        "addr:street": "Avenida Ana Godói de Souza",
+        "name": "Auto Mecânica Toledo",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 627549565,
+      "nodes": [
+        5923955773,
+        5923955774,
+        5923955775,
+        5923955776,
+        5923955773
+      ],
+      "tags": {
+        "name": "Pit Stop Auto Center",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 627550102,
+      "nodes": [
+        5923962785,
+        5923962786,
+        5923962787,
+        5923962788,
+        5923962785
+      ],
+      "tags": {
+        "name": "Galeria Santa Mônica",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 627550103,
+      "nodes": [
+        5923962789,
+        5923962790,
+        5923962791,
+        5923962792,
+        5923962789
+      ],
+      "tags": {
+        "addr:housenumber": "655",
+        "addr:postcode": "38.408-168",
+        "addr:street": "Avenida Belarmino Cotta Pacheco",
+        "name": "Colchomóveis",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "way",
+      "id": 628455319,
+      "nodes": [
+        5933141886,
+        5933141887,
+        5933141888,
+        5933141889,
+        5933141886
+      ],
+      "tags": {
+        "addr:housenumber": "85",
+        "addr:postcode": "38.408-176",
+        "addr:street": "Avenida Doutor Laerte Vieira Gonçalves",
+        "name": "Quézia Barros Hair Makeup",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "way",
+      "id": 628457826,
+      "nodes": [
+        5933156677,
+        5933156678,
+        5933156679,
+        5933156680,
+        5933156677
+      ],
+      "tags": {
+        "addr:housenumber": "1005",
+        "addr:postcode": "38.405-048",
+        "addr:street": "Avenida Espanha",
+        "name": "Bateria Moura",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "way",
+      "id": 628458635,
+      "nodes": [
+        5933160188,
+        5933160189,
+        5933160190,
+        5933160191,
+        5933160188
+      ],
+      "tags": {
+        "name": "Império das Telhas",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 629214563,
+      "nodes": [
+        5940658107,
+        5940658106,
+        5940658108,
+        5940658109,
+        5940658107
+      ],
+      "tags": {
+        "name": "Atacadão dos Pneus",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "way",
+      "id": 629216748,
+      "nodes": [
+        5940676944,
+        5940676945,
+        5940676946,
+        5940676947,
+        5940676944
+      ],
+      "tags": {
+        "name": "Empório Letícia",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 629221942,
+      "nodes": [
+        5940733083,
+        5940733082,
+        6062365862,
+        5940733084,
+        5940733485,
+        5940733083
+      ],
+      "tags": {
+        "addr:housenumber": "1215",
+        "addr:postcode": "38.408-224",
+        "addr:street": "Rua Pedro José Samora",
+        "name": "Salão Ville Boho",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "way",
+      "id": 629307904,
+      "nodes": [
+        5941498409,
+        5941498410,
+        5941498411,
+        5941498412,
+        5941498409
+      ],
+      "tags": {
+        "addr:housenumber": "328",
+        "addr:postcode": "38.408-168",
+        "addr:street": "Avenida Belarmino Cotta Pacheco",
+        "name": "Castro Naves",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 630966429,
+      "nodes": [
+        5957542285,
+        5957542286,
+        5957542287,
+        5957542288,
+        5957542289,
+        5957542290,
+        5957542285
+      ],
+      "tags": {
+        "name": "MartMinas",
+        "shop": "wholesale"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636444950,
+      "nodes": [
+        6001783370,
+        6001783369,
+        6001783371,
+        6001783372,
+        6001783370
+      ],
+      "tags": {
+        "addr:housenumber": "547",
+        "addr:postcode": "38.408-228",
+        "addr:street": "Rua Antônio Salviano de Rezende",
+        "drink:coconut_water": "yes",
+        "name": "Minas Côco",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636445582,
+      "nodes": [
+        6001787487,
+        6001787486,
+        6001787488,
+        6001787489,
+        6001787490,
+        6001787487
+      ],
+      "tags": {
+        "addr:housenumber": "639",
+        "addr:postcode": "38.408-228",
+        "addr:street": "Rua Antônio Salviano de Rezende",
+        "building": "yes",
+        "name": "LB Serviços Automotivos",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637490432,
+      "nodes": [
+        6008349720,
+        6009846110,
+        6009846111,
+        6009846112,
+        6008349720
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Aucar.com Veículos",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637490457,
+      "nodes": [
+        5923941028,
+        6009846126,
+        5923941027,
+        6009846127,
+        5923941028
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Barbearia Kennedy",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "way",
+      "id": 638353073,
+      "nodes": [
+        6016474226,
+        6016474227,
+        5857333290,
+        6016474228,
+        6016474226
+      ],
+      "tags": {
+        "addr:housenumber": "875",
+        "addr:postcode": "38.408-222",
+        "addr:street": "Rua José Miguel Saramago",
+        "name": "Mil Car Mecânica",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "way",
+      "id": 644626221,
+      "nodes": [
+        6062132119,
+        6062132120,
+        6062132121,
+        6062132122,
+        6062132119
+      ],
+      "tags": {
+        "name": "Supermercado Larissa",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 644626223,
+      "nodes": [
+        6062132124,
+        6062132125,
+        6062132126,
+        6062132127,
+        6062132124
+      ],
+      "tags": {
+        "name": "Pet & Trecos",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 644674680,
+      "nodes": [
+        5940733081,
+        5940733079,
+        6062365861,
+        6062365862,
+        5940733082,
+        5940733081
+      ],
+      "tags": {
+        "addr:housenumber": "741",
+        "addr:postcode": "38.408-176",
+        "addr:street": "Avenida Doutor Laerte Vieira Gonçalves",
+        "building": "yes",
+        "name": "Nobre Papelaria",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 644675912,
+      "nodes": [
+        6062375089,
+        6062375090,
+        6062375107,
+        6062375108,
+        6062375089
+      ],
+      "tags": {
+        "addr:housenumber": "1235",
+        "addr:postcode": "38.408-226",
+        "addr:street": "Rua Alberto Alves Cabral",
+        "name": "The Fest",
+        "shop": "party"
+      }
+    },
+    {
+      "type": "way",
+      "id": 647028639,
+      "nodes": [
+        6077480466,
+        5923922228,
+        6114185223,
+        6077480467,
+        6077480466
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Studio SOS",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "way",
+      "id": 647041865,
+      "nodes": [
+        5832507703,
+        4012858259,
+        6077592955,
+        5975896847,
+        5975896849,
+        5832507703
+      ],
+      "tags": {
+        "area": "yes",
+        "name": "Alan Veículos",
+        "second_hand": "only",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 647041868,
+      "nodes": [
+        6077592955,
+        4012858262,
+        6077592956,
+        5975896847,
+        6077592955
+      ],
+      "tags": {
+        "addr:housenumber": "1152",
+        "addr:street": "Avenida Segismundo Pereira",
+        "building": "yes",
+        "name": "Face e Corpo Depilação a Laser",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "way",
+      "id": 647041870,
+      "nodes": [
+        4012858262,
+        4012858263,
+        6077592957,
+        6077592956,
+        4012858262
+      ],
+      "tags": {
+        "addr:housenumber": "1156",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "building": "yes",
+        "name": "Tiago Cabeleireiro",
+        "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:00-17:00",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "way",
+      "id": 647041873,
+      "nodes": [
+        4012858263,
+        4012858264,
+        5975896848,
+        6077592957,
+        4012858263
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Q-Sabor",
+        "phone": "+55 34 3219-0091",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 648441387,
+      "nodes": [
+        5873576921,
+        6122250744,
+        6122250745,
+        6087804638,
+        5873576921
+      ],
+      "tags": {
+        "area": "yes",
+        "name": "Master Telhas & Gourmet",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 649305501,
+      "nodes": [
+        6093969239,
+        6023786520,
+        6093969240,
+        5501950674,
+        6093969239
+      ],
+      "tags": {
+        "addr:city": "Uberlândia",
+        "addr:housenumber": "677",
+        "addr:postcode": "38.408-176",
+        "addr:street": "Avenida Doutor Laerte Vieira Gonçalves",
+        "addr:suburb": "Santa Mônica",
+        "building": "yes",
+        "name": "Supermercado 2000",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 07:00-15:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "phone": "+55 34 3227-0170",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654162504,
+      "nodes": [
+        6130084412,
+        6130084413,
+        6130084414,
+        5957402804,
+        6130084415,
+        6130084412
+      ],
+      "tags": {
+        "addr:housenumber": "385",
+        "addr:postcode": "38.400-148",
+        "addr:street": "Rua Rodolfo Correa",
+        "area": "yes",
+        "building": "retail",
+        "name": "Gláucia Sampaio",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182867,
+      "nodes": [
+        6130258448,
+        6130258449,
+        6130258450,
+        6130258451,
+        6130258448
+      ],
+      "tags": {
+        "addr:housenumber": "1401",
+        "addr:postcode": "38.400-242",
+        "addr:street": "Avenida Governador Rondon Pacheco",
+        "area": "yes",
+        "building": "retail",
+        "name": "Galli Home",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182873,
+      "nodes": [
+        6130258475,
+        6130258476,
+        6130258477,
+        6130258478,
+        6130258479,
+        6130258475
+      ],
+      "tags": {
+        "area": "yes",
+        "brand": "Chevrolet",
+        "name": "Autus",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182886,
+      "nodes": [
+        6130259899,
+        6130259900,
+        6130259901,
+        6130259902,
+        6130259899
+      ],
+      "tags": {
+        "area": "yes",
+        "building": "retail",
+        "name": "Bike Center",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182889,
+      "nodes": [
+        6130259903,
+        6130259904,
+        6130259905,
+        6130259906,
+        6130259903
+      ],
+      "tags": {
+        "area": "yes",
+        "building": "retail",
+        "name": "Casa & Casa",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182895,
+      "nodes": [
+        6130259913,
+        6130259914,
+        6130259915,
+        6130259916,
+        6130259913
+      ],
+      "tags": {
+        "addr:housenumber": "2064",
+        "addr:postcode": "38.408-343",
+        "addr:street": "Avenida Governador Rondon Pacheco",
+        "area": "yes",
+        "name": "Start Shop",
+        "shop": "chemist"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182902,
+      "nodes": [
+        6130259925,
+        6130259926,
+        6130259927,
+        6130259928,
+        6130259929,
+        6130259930,
+        6130259931,
+        6130259925
+      ],
+      "tags": {
+        "area": "yes",
+        "building": "retail",
+        "name": "Cia Luz",
+        "shop": "lighting"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182952,
+      "nodes": [
+        6130260124,
+        6130260125,
+        6130260126,
+        6130260127,
+        6130260124
+      ],
+      "tags": {
+        "area": "yes",
+        "building": "retail",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182959,
+      "nodes": [
+        6130260148,
+        6130260149,
+        6130260150,
+        6130260151,
+        6130260148
+      ],
+      "tags": {
+        "area": "yes",
+        "building": "retail",
+        "name": "Colchões Ortobom",
+        "shop": "bed"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182960,
+      "nodes": [
+        6130260154,
+        6130260155,
+        6130260156,
+        6130260157,
+        6130260154
+      ],
+      "tags": {
+        "area": "yes",
+        "name": "Tégula Telhas",
+        "shop": "trade",
+        "trade": "building_supplies"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182961,
+      "nodes": [
+        6130260158,
+        6130260159,
+        6130260160,
+        6130260161,
+        6130260158
+      ],
+      "tags": {
+        "building": "retail",
+        "name": "HB Arte em Fibras",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182965,
+      "nodes": [
+        6130260178,
+        6130260179,
+        6130260180,
+        6130260181,
+        6130260178
+      ],
+      "tags": {
+        "brand": "Hyundai",
+        "building": "retail",
+        "name": "Urca Imports",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182967,
+      "nodes": [
+        6130260286,
+        6130260287,
+        6130260288,
+        6130260289,
+        6130260290,
+        6130260286
+      ],
+      "tags": {
+        "addr:housenumber": "3364",
+        "addr:postcode": "38.408-404",
+        "addr:street": "Avenida Governador Rondon Pacheco",
+        "building": "retail",
+        "name": "Alberflex",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "way",
+      "id": 654182982,
+      "nodes": [
+        6130260362,
+        6130260363,
+        6130260364,
+        6130260365,
+        6130260362
+      ],
+      "tags": {
+        "area": "yes",
+        "brand": "Michelin",
+        "building": "retail",
+        "name": "Pneuara",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665849162,
+      "nodes": [
+        6232956985,
+        6232956684,
+        6232956683,
+        6232956682,
+        6232956985
+      ],
+      "tags": {
+        "building": "retail",
+        "name": "Lojas Prado",
+        "shop": "houseware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666364640,
+      "nodes": [
+        6238706401,
+        6238706400,
+        6238706399,
+        6238706398,
+        6238706401
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Elétrica Triângulo",
+        "phone": "+55 34 3234 3424",
+        "shop": "electrical"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666364641,
+      "nodes": [
+        6238706405,
+        6238706404,
+        6238706403,
+        6238706402,
+        6238706405
+      ],
+      "tags": {
+        "addr:housenumber": "1237",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "building": "yes",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666364642,
+      "nodes": [
+        6238706409,
+        6238706406,
+        6238706407,
+        6238706408,
+        6238706409
+      ],
+      "tags": {
+        "addr:housenumber": "1257",
+        "addr:postcode": "38.408-170",
+        "addr:street": "Avenida Segismundo Pereira",
+        "building": "yes",
+        "name": "Pascoal Ferragens",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666371140,
+      "nodes": [
+        6238780254,
+        6238780251,
+        6238780252,
+        6238780253,
+        6238780254
+      ],
+      "tags": {
+        "addr:housenumber": "1335",
+        "addr:postcode": "38.408-168",
+        "addr:street": "Avenida Belarmino Cotta Pacheco",
+        "building": "yes",
+        "name": "Vitrine do Japão",
+        "shop": "deli"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666371143,
+      "nodes": [
+        6238780258,
+        6238780257,
+        6238780255,
+        6238780256,
+        6238780259,
+        6238780258
+      ],
+      "tags": {
+        "addr:housenumber": "602",
+        "addr:postcode": "38.408-224",
+        "addr:street": "Rua Pedro José Samora",
+        "name": "Mundix Aviamentos e Artesanato",
+        "shop": "fabric"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666371174,
+      "nodes": [
+        6238780791,
+        6238780788,
+        6238780789,
+        6238780790,
+        6238780791
+      ],
+      "tags": {
+        "addr:housenumber": "720",
+        "addr:postcode": "38.408-224",
+        "addr:street": "Rua Pedro José Samora",
+        "building": "yes",
+        "name": "Liliane Guimarães",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "way",
+      "id": 667563990,
+      "nodes": [
+        6250464375,
+        6250464378,
+        6250464381,
+        6250464380,
+        6250464379,
+        6250464374,
+        6250464377,
+        6250464376,
+        6250464375
+      ],
+      "tags": {
+        "building": "yes",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "way",
+      "id": 667564000,
+      "nodes": [
+        6250464439,
+        6250464431,
+        6250464432,
+        6250464429,
+        6250464430,
+        6250464440,
+        6250464438,
+        6250464436,
+        6250464437,
+        6250464433,
+        6250464434,
+        6250464435,
+        6250464410,
+        6250464439
+      ],
+      "tags": {
+        "addr:housenumber": "2222",
+        "addr:postcode": "38.411-106",
+        "addr:street": "Avenida Nicomedes Alves dos Santos",
+        "building": "yes",
+        "name": "Pão de Açúcar",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669180514,
+      "nodes": [
+        6266385588,
+        6266385585,
+        6266385586,
+        6266385587,
+        6266385588
+      ],
+      "tags": {
+        "building": "commercial",
+        "name": "Supermercado Real",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669370191,
+      "nodes": [
+        6268165881,
+        6268165880,
+        6268165879,
+        6268165878,
+        6268165877,
+        6268165876,
+        6268165875,
+        6268165874,
+        6268165873,
+        6268165872,
+        6268165871,
+        6268165881
+      ],
+      "tags": {
+        "building": "commercial",
+        "name": "DPaschoal",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669609223,
+      "nodes": [
+        6270602920,
+        6270602917,
+        6270602918,
+        6270602919,
+        6270602920
+      ],
+      "tags": {
+        "building": "commercial",
+        "name": "Papelaria Vitória",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669609227,
+      "nodes": [
+        6270602928,
+        6270602927,
+        6270602926,
+        6270602925,
+        6270602928
+      ],
+      "tags": {
+        "building": "commercial",
+        "name": "Ferrapro Ferramentas e Serviços",
+        "phone": "+55 34 3224 1382",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3081942229,
+      "lat": -18.9114229,
+      "lon": -48.3269549
+    },
+    {
+      "type": "node",
+      "id": 3081942232,
+      "lat": -18.9122501,
+      "lon": -48.3266384
+    },
+    {
+      "type": "node",
+      "id": 3081945533,
+      "lat": -18.9116918,
+      "lon": -48.3266438
+    },
+    {
+      "type": "node",
+      "id": 3081945534,
+      "lat": -18.9116868,
+      "lon": -48.3269549
+    },
+    {
+      "type": "node",
+      "id": 3081942230,
+      "lat": -18.9114432,
+      "lon": -48.3260162
+    },
+    {
+      "type": "node",
+      "id": 3081942231,
+      "lat": -18.912245,
+      "lon": -48.3260108
+    },
+    {
+      "type": "node",
+      "id": 3405378786,
+      "lat": -18.9272395,
+      "lon": -48.2990385
+    },
+    {
+      "type": "node",
+      "id": 3405378787,
+      "lat": -18.9275416,
+      "lon": -48.2994901
+    },
+    {
+      "type": "node",
+      "id": 3405378788,
+      "lat": -18.9279226,
+      "lon": -48.2985816
+    },
+    {
+      "type": "node",
+      "id": 3405378789,
+      "lat": -18.9282247,
+      "lon": -48.2990331
+    },
+    {
+      "type": "node",
+      "id": 3343856334,
+      "lat": -18.9114475,
+      "lon": -48.2958164
+    },
+    {
+      "type": "node",
+      "id": 3343856335,
+      "lat": -18.9115189,
+      "lon": -48.2960872
+    },
+    {
+      "type": "node",
+      "id": 3343856337,
+      "lat": -18.911791,
+      "lon": -48.295715
+    },
+    {
+      "type": "node",
+      "id": 3343856338,
+      "lat": -18.9118624,
+      "lon": -48.2959857
+    },
+    {
+      "type": "node",
+      "id": 3364716775,
+      "lat": -18.9565763,
+      "lon": -48.279306
+    },
+    {
+      "type": "node",
+      "id": 3364716776,
+      "lat": -18.9565443,
+      "lon": -48.2786504
+    },
+    {
+      "type": "node",
+      "id": 3364716777,
+      "lat": -18.9566757,
+      "lon": -48.2784118
+    },
+    {
+      "type": "node",
+      "id": 3364716778,
+      "lat": -18.9566986,
+      "lon": -48.2763596
+    },
+    {
+      "type": "node",
+      "id": 3364716779,
+      "lat": -18.9568414,
+      "lon": -48.2777895
+    },
+    {
+      "type": "node",
+      "id": 3364716780,
+      "lat": -18.9568471,
+      "lon": -48.2768592
+    },
+    {
+      "type": "node",
+      "id": 3364716781,
+      "lat": -18.9568643,
+      "lon": -48.2773908
+    },
+    {
+      "type": "node",
+      "id": 3364716782,
+      "lat": -18.9569871,
+      "lon": -48.2766961
+    },
+    {
+      "type": "node",
+      "id": 3364716783,
+      "lat": -18.95703,
+      "lon": -48.2766194
+    },
+    {
+      "type": "node",
+      "id": 3364716784,
+      "lat": -18.9571099,
+      "lon": -48.2757374
+    },
+    {
+      "type": "node",
+      "id": 3364716785,
+      "lat": -18.9582258,
+      "lon": -48.2795805
+    },
+    {
+      "type": "node",
+      "id": 3364716786,
+      "lat": -18.9582165,
+      "lon": -48.2769821
+    },
+    {
+      "type": "node",
+      "id": 3364716787,
+      "lat": -18.9579326,
+      "lon": -48.2774798
+    },
+    {
+      "type": "node",
+      "id": 3364716788,
+      "lat": -18.9581269,
+      "lon": -48.2765469
+    },
+    {
+      "type": "node",
+      "id": 4795631153,
+      "lat": -18.9583785,
+      "lon": -48.2789325
+    },
+    {
+      "type": "node",
+      "id": 4795631154,
+      "lat": -18.957633,
+      "lon": -48.2786621
+    },
+    {
+      "type": "node",
+      "id": 4795631155,
+      "lat": -18.9579688,
+      "lon": -48.2767806
+    },
+    {
+      "type": "node",
+      "id": 4795631156,
+      "lat": -18.95733,
+      "lon": -48.2796471
+    },
+    {
+      "type": "node",
+      "id": 4795631157,
+      "lat": -18.9578084,
+      "lon": -48.2797104
+    },
+    {
+      "type": "node",
+      "id": 4795631158,
+      "lat": -18.9580059,
+      "lon": -48.2796657
+    },
+    {
+      "type": "node",
+      "id": 6250464374,
+      "lat": -18.9515496,
+      "lon": -48.2765907
+    },
+    {
+      "type": "node",
+      "id": 6250464375,
+      "lat": -18.9515517,
+      "lon": -48.2770197
+    },
+    {
+      "type": "node",
+      "id": 6250464376,
+      "lat": -18.9515768,
+      "lon": -48.2770195
+    },
+    {
+      "type": "node",
+      "id": 6250464377,
+      "lat": -18.9515748,
+      "lon": -48.2765906
+    },
+    {
+      "type": "node",
+      "id": 6250464378,
+      "lat": -18.9515519,
+      "lon": -48.2770734
+    },
+    {
+      "type": "node",
+      "id": 6250464379,
+      "lat": -18.9515494,
+      "lon": -48.2765343
+    },
+    {
+      "type": "node",
+      "id": 6250464380,
+      "lat": -18.9513059,
+      "lon": -48.2765356
+    },
+    {
+      "type": "node",
+      "id": 6250464381,
+      "lat": -18.9513084,
+      "lon": -48.2770747
+    },
+    {
+      "type": "node",
+      "id": 6250464410,
+      "lat": -18.9416482,
+      "lon": -48.2744056
+    },
+    {
+      "type": "node",
+      "id": 6250464429,
+      "lat": -18.9418699,
+      "lon": -48.2742006
+    },
+    {
+      "type": "node",
+      "id": 6250464430,
+      "lat": -18.9418698,
+      "lon": -48.2742485
+    },
+    {
+      "type": "node",
+      "id": 6250464431,
+      "lat": -18.9417634,
+      "lon": -48.2742489
+    },
+    {
+      "type": "node",
+      "id": 6250464432,
+      "lat": -18.9417635,
+      "lon": -48.2742004
+    },
+    {
+      "type": "node",
+      "id": 6250464433,
+      "lat": -18.9417683,
+      "lon": -48.2745992
+    },
+    {
+      "type": "node",
+      "id": 6250464434,
+      "lat": -18.941768,
+      "lon": -48.2747656
+    },
+    {
+      "type": "node",
+      "id": 6250464435,
+      "lat": -18.9416475,
+      "lon": -48.2747654
+    },
+    {
+      "type": "node",
+      "id": 6250464436,
+      "lat": -18.9419967,
+      "lon": -48.2745508
+    },
+    {
+      "type": "node",
+      "id": 6250464437,
+      "lat": -18.9419967,
+      "lon": -48.2745996
+    },
+    {
+      "type": "node",
+      "id": 6250464438,
+      "lat": -18.9420414,
+      "lon": -48.2745508
+    },
+    {
+      "type": "node",
+      "id": 6250464439,
+      "lat": -18.9416484,
+      "lon": -48.2742487
+    },
+    {
+      "type": "node",
+      "id": 6250464440,
+      "lat": -18.9420419,
+      "lon": -48.2742488
+    },
+    {
+      "type": "node",
+      "id": 4060215682,
+      "lat": -18.950828,
+      "lon": -48.2377363
+    },
+    {
+      "type": "node",
+      "id": 4060215683,
+      "lat": -18.951332,
+      "lon": -48.2383796
+    },
+    {
+      "type": "node",
+      "id": 4060215684,
+      "lat": -18.9519314,
+      "lon": -48.2378371
+    },
+    {
+      "type": "node",
+      "id": 4060215685,
+      "lat": -18.951827,
+      "lon": -48.2376834
+    },
+    {
+      "type": "node",
+      "id": 4060215686,
+      "lat": -18.951659,
+      "lon": -48.2378179
+    },
+    {
+      "type": "node",
+      "id": 4060215687,
+      "lat": -18.9512594,
+      "lon": -48.2373569
+    },
+    {
+      "type": "node",
+      "id": 4060215895,
+      "lat": -18.9439591,
+      "lon": -48.2352871
+    },
+    {
+      "type": "node",
+      "id": 4060215896,
+      "lat": -18.9443217,
+      "lon": -48.2355735
+    },
+    {
+      "type": "node",
+      "id": 4060215897,
+      "lat": -18.9447607,
+      "lon": -48.2349328
+    },
+    {
+      "type": "node",
+      "id": 4060215898,
+      "lat": -18.9444231,
+      "lon": -48.2346666
+    },
+    {
+      "type": "node",
+      "id": 1658238792,
+      "lat": -18.9301225,
+      "lon": -48.2840032
+    },
+    {
+      "type": "node",
+      "id": 1658238793,
+      "lat": -18.9301246,
+      "lon": -48.2840796
+    },
+    {
+      "type": "node",
+      "id": 1658238795,
+      "lat": -18.9301681,
+      "lon": -48.2840783
+    },
+    {
+      "type": "node",
+      "id": 1658238796,
+      "lat": -18.9301974,
+      "lon": -48.2851414
+    },
+    {
+      "type": "node",
+      "id": 1658238797,
+      "lat": -18.9301521,
+      "lon": -48.2851428
+    },
+    {
+      "type": "node",
+      "id": 1658238798,
+      "lat": -18.9301544,
+      "lon": -48.2852236
+    },
+    {
+      "type": "node",
+      "id": 3050538450,
+      "lat": -18.9304365,
+      "lon": -48.2766148
+    },
+    {
+      "type": "node",
+      "id": 3050538451,
+      "lat": -18.9302896,
+      "lon": -48.2772018
+    },
+    {
+      "type": "node",
+      "id": 3050538452,
+      "lat": -18.930135,
+      "lon": -48.2771574
+    },
+    {
+      "type": "node",
+      "id": 3050538453,
+      "lat": -18.9301085,
+      "lon": -48.2772345
+    },
+    {
+      "type": "node",
+      "id": 6130258448,
+      "lat": -18.9301839,
+      "lon": -48.2789938
+    },
+    {
+      "type": "node",
+      "id": 6130258449,
+      "lat": -18.9303377,
+      "lon": -48.2789029
+    },
+    {
+      "type": "node",
+      "id": 6130258450,
+      "lat": -18.9302555,
+      "lon": -48.2787422
+    },
+    {
+      "type": "node",
+      "id": 6130258451,
+      "lat": -18.9300984,
+      "lon": -48.2788319
+    },
+    {
+      "type": "node",
+      "id": 1658238776,
+      "lat": -18.9292537,
+      "lon": -48.2851158
+    },
+    {
+      "type": "node",
+      "id": 1658238779,
+      "lat": -18.9292434,
+      "lon": -48.2847411
+    },
+    {
+      "type": "node",
+      "id": 1658238781,
+      "lat": -18.9294324,
+      "lon": -48.2847353
+    },
+    {
+      "type": "node",
+      "id": 1658238782,
+      "lat": -18.9294128,
+      "lon": -48.284025
+    },
+    {
+      "type": "node",
+      "id": 1658238800,
+      "lat": -18.929472,
+      "lon": -48.2852446
+    },
+    {
+      "type": "node",
+      "id": 1658238803,
+      "lat": -18.9294683,
+      "lon": -48.2851092
+    },
+    {
+      "type": "node",
+      "id": 3050538448,
+      "lat": -18.9297825,
+      "lon": -48.2770335
+    },
+    {
+      "type": "node",
+      "id": 3050538449,
+      "lat": -18.9299391,
+      "lon": -48.2764541
+    },
+    {
+      "type": "node",
+      "id": 3050538454,
+      "lat": -18.9300245,
+      "lon": -48.2771994
+    },
+    {
+      "type": "node",
+      "id": 3050538455,
+      "lat": -18.9299008,
+      "lon": -48.2772812
+    },
+    {
+      "type": "node",
+      "id": 3050538456,
+      "lat": -18.9297771,
+      "lon": -48.2770967
+    },
+    {
+      "type": "node",
+      "id": 5957402804,
+      "lat": -18.9269464,
+      "lon": -48.2771856
+    },
+    {
+      "type": "node",
+      "id": 6130084412,
+      "lat": -18.9270151,
+      "lon": -48.2773479
+    },
+    {
+      "type": "node",
+      "id": 6130084413,
+      "lat": -18.927132,
+      "lon": -48.2772769
+    },
+    {
+      "type": "node",
+      "id": 6130084414,
+      "lat": -18.9270486,
+      "lon": -48.2771235
+    },
+    {
+      "type": "node",
+      "id": 6130084415,
+      "lat": -18.9269317,
+      "lon": -48.2771945
+    },
+    {
+      "type": "node",
+      "id": 6130258475,
+      "lat": -18.9293828,
+      "lon": -48.2774511
+    },
+    {
+      "type": "node",
+      "id": 6130258476,
+      "lat": -18.9292085,
+      "lon": -48.2775797
+    },
+    {
+      "type": "node",
+      "id": 6130258477,
+      "lat": -18.9289604,
+      "lon": -48.2773335
+    },
+    {
+      "type": "node",
+      "id": 6130258478,
+      "lat": -18.9288551,
+      "lon": -48.2771579
+    },
+    {
+      "type": "node",
+      "id": 6130258479,
+      "lat": -18.9290634,
+      "lon": -48.2770243
+    },
+    {
+      "type": "node",
+      "id": 6130259899,
+      "lat": -18.9272109,
+      "lon": -48.2751933
+    },
+    {
+      "type": "node",
+      "id": 6130259900,
+      "lat": -18.9273478,
+      "lon": -48.2750387
+    },
+    {
+      "type": "node",
+      "id": 6130259901,
+      "lat": -18.9272823,
+      "lon": -48.2749731
+    },
+    {
+      "type": "node",
+      "id": 6130259902,
+      "lat": -18.9271419,
+      "lon": -48.2751265
+    },
+    {
+      "type": "node",
+      "id": 6130259903,
+      "lat": -18.927136,
+      "lon": -48.2751251
+    },
+    {
+      "type": "node",
+      "id": 6130259904,
+      "lat": -18.9272794,
+      "lon": -48.2749635
+    },
+    {
+      "type": "node",
+      "id": 6130259905,
+      "lat": -18.9272099,
+      "lon": -48.2748946
+    },
+    {
+      "type": "node",
+      "id": 6130259906,
+      "lat": -18.9270665,
+      "lon": -48.2750562
+    },
+    {
+      "type": "node",
+      "id": 6130259913,
+      "lat": -18.9272662,
+      "lon": -48.2742327
+    },
+    {
+      "type": "node",
+      "id": 6130259914,
+      "lat": -18.9273701,
+      "lon": -48.2741663
+    },
+    {
+      "type": "node",
+      "id": 6130259915,
+      "lat": -18.9272913,
+      "lon": -48.2740215
+    },
+    {
+      "type": "node",
+      "id": 6130259916,
+      "lat": -18.9271326,
+      "lon": -48.2741229
+    },
+    {
+      "type": "node",
+      "id": 6130259925,
+      "lat": -18.9264522,
+      "lon": -48.2745591
+    },
+    {
+      "type": "node",
+      "id": 6130259926,
+      "lat": -18.926645,
+      "lon": -48.2744719
+    },
+    {
+      "type": "node",
+      "id": 6130259927,
+      "lat": -18.9265989,
+      "lon": -48.2743562
+    },
+    {
+      "type": "node",
+      "id": 6130259928,
+      "lat": -18.9265451,
+      "lon": -48.2743985
+    },
+    {
+      "type": "node",
+      "id": 6130259929,
+      "lat": -18.9265451,
+      "lon": -48.2744178
+    },
+    {
+      "type": "node",
+      "id": 6130259930,
+      "lat": -18.9265138,
+      "lon": -48.2744444
+    },
+    {
+      "type": "node",
+      "id": 6130259931,
+      "lat": -18.9264287,
+      "lon": -48.2744903
+    },
+    {
+      "type": "node",
+      "id": 6268165871,
+      "lat": -18.9293026,
+      "lon": -48.2764471
+    },
+    {
+      "type": "node",
+      "id": 6268165872,
+      "lat": -18.9292747,
+      "lon": -48.2764672
+    },
+    {
+      "type": "node",
+      "id": 6268165873,
+      "lat": -18.9291884,
+      "lon": -48.2763317
+    },
+    {
+      "type": "node",
+      "id": 6268165874,
+      "lat": -18.9291935,
+      "lon": -48.2763156
+    },
+    {
+      "type": "node",
+      "id": 6268165875,
+      "lat": -18.9293762,
+      "lon": -48.2763813
+    },
+    {
+      "type": "node",
+      "id": 6268165876,
+      "lat": -18.9294434,
+      "lon": -48.2764591
+    },
+    {
+      "type": "node",
+      "id": 6268165877,
+      "lat": -18.9294675,
+      "lon": -48.2763679
+    },
+    {
+      "type": "node",
+      "id": 6268165878,
+      "lat": -18.9296591,
+      "lon": -48.276435
+    },
+    {
+      "type": "node",
+      "id": 6268165879,
+      "lat": -18.9295931,
+      "lon": -48.2766576
+    },
+    {
+      "type": "node",
+      "id": 6268165880,
+      "lat": -18.9296007,
+      "lon": -48.276671
+    },
+    {
+      "type": "node",
+      "id": 6268165881,
+      "lat": -18.9295271,
+      "lon": -48.27673
+    },
+    {
+      "type": "node",
+      "id": 4011704487,
+      "lat": -18.9257509,
+      "lon": -48.2724678
+    },
+    {
+      "type": "node",
+      "id": 4011704488,
+      "lat": -18.9256453,
+      "lon": -48.2725925
+    },
+    {
+      "type": "node",
+      "id": 4011704490,
+      "lat": -18.9251832,
+      "lon": -48.2720366
+    },
+    {
+      "type": "node",
+      "id": 4011704491,
+      "lat": -18.9254585,
+      "lon": -48.2716287
+    },
+    {
+      "type": "node",
+      "id": 4011704492,
+      "lat": -18.9259647,
+      "lon": -48.2722106
+    },
+    {
+      "type": "node",
+      "id": 4011704493,
+      "lat": -18.9255138,
+      "lon": -48.2716922
+    },
+    {
+      "type": "node",
+      "id": 6130259950,
+      "lat": -18.9256981,
+      "lon": -48.2725302
+    },
+    {
+      "type": "node",
+      "id": 6130259951,
+      "lat": -18.9254282,
+      "lon": -48.2723307
+    },
+    {
+      "type": "node",
+      "id": 6130259952,
+      "lat": -18.9257728,
+      "lon": -48.27199
+    },
+    {
+      "type": "node",
+      "id": 4015172208,
+      "lat": -18.9243798,
+      "lon": -48.2651767
+    },
+    {
+      "type": "node",
+      "id": 4015172209,
+      "lat": -18.9245361,
+      "lon": -48.2649364
+    },
+    {
+      "type": "node",
+      "id": 4015172210,
+      "lat": -18.9244626,
+      "lon": -48.264883
+    },
+    {
+      "type": "node",
+      "id": 4015172211,
+      "lat": -18.9243063,
+      "lon": -48.2651233
+    },
+    {
+      "type": "node",
+      "id": 4015172212,
+      "lat": -18.9243134,
+      "lon": -48.2652784
+    },
+    {
+      "type": "node",
+      "id": 4015172213,
+      "lat": -18.9240564,
+      "lon": -48.2650893
+    },
+    {
+      "type": "node",
+      "id": 4015172214,
+      "lat": -18.9242796,
+      "lon": -48.2647503
+    },
+    {
+      "type": "node",
+      "id": 5920357149,
+      "lat": -18.9189063,
+      "lon": -48.2764129
+    },
+    {
+      "type": "node",
+      "id": 5920357150,
+      "lat": -18.9187278,
+      "lon": -48.2766685
+    },
+    {
+      "type": "node",
+      "id": 5920357151,
+      "lat": -18.9188095,
+      "lon": -48.2767322
+    },
+    {
+      "type": "node",
+      "id": 5920357152,
+      "lat": -18.9189879,
+      "lon": -48.2764766
+    },
+    {
+      "type": "node",
+      "id": 4011701156,
+      "lat": -18.9132111,
+      "lon": -48.2806158
+    },
+    {
+      "type": "node",
+      "id": 4011701160,
+      "lat": -18.9132895,
+      "lon": -48.2808803
+    },
+    {
+      "type": "node",
+      "id": 4011701161,
+      "lat": -18.9140448,
+      "lon": -48.2806255
+    },
+    {
+      "type": "node",
+      "id": 4011701164,
+      "lat": -18.9127257,
+      "lon": -48.2804188
+    },
+    {
+      "type": "node",
+      "id": 4011701166,
+      "lat": -18.9109787,
+      "lon": -48.2810591
+    },
+    {
+      "type": "node",
+      "id": 4011701167,
+      "lat": -18.9109207,
+      "lon": -48.2808567
+    },
+    {
+      "type": "node",
+      "id": 4011701168,
+      "lat": -18.9106906,
+      "lon": -48.2809344
+    },
+    {
+      "type": "node",
+      "id": 4011701169,
+      "lat": -18.9107486,
+      "lon": -48.2811347
+    },
+    {
+      "type": "node",
+      "id": 3097528310,
+      "lat": -18.9120828,
+      "lon": -48.2749076
+    },
+    {
+      "type": "node",
+      "id": 3097528311,
+      "lat": -18.91229,
+      "lon": -48.2745704
+    },
+    {
+      "type": "node",
+      "id": 3097528312,
+      "lat": -18.911808,
+      "lon": -48.2741976
+    },
+    {
+      "type": "node",
+      "id": 3097528314,
+      "lat": -18.9125457,
+      "lon": -48.2739739
+    },
+    {
+      "type": "node",
+      "id": 3097528315,
+      "lat": -18.9127522,
+      "lon": -48.2738234
+    },
+    {
+      "type": "node",
+      "id": 3097528316,
+      "lat": -18.9129679,
+      "lon": -48.2739736
+    },
+    {
+      "type": "node",
+      "id": 3097528317,
+      "lat": -18.9122782,
+      "lon": -48.2750552
+    },
+    {
+      "type": "node",
+      "id": 4011701157,
+      "lat": -18.9131328,
+      "lon": -48.2803422
+    },
+    {
+      "type": "node",
+      "id": 4011701158,
+      "lat": -18.9138893,
+      "lon": -48.2801041
+    },
+    {
+      "type": "node",
+      "id": 4011701159,
+      "lat": -18.9139712,
+      "lon": -48.2803608
+    },
+    {
+      "type": "node",
+      "id": 4011701162,
+      "lat": -18.9129239,
+      "lon": -48.2801923
+    },
+    {
+      "type": "node",
+      "id": 4011701163,
+      "lat": -18.9126869,
+      "lon": -48.2802744
+    },
+    {
+      "type": "node",
+      "id": 4011701165,
+      "lat": -18.9129654,
+      "lon": -48.2803381
+    },
+    {
+      "type": "node",
+      "id": 4011701186,
+      "lat": -18.9141782,
+      "lon": -48.2762113
+    },
+    {
+      "type": "node",
+      "id": 4011701187,
+      "lat": -18.9145907,
+      "lon": -48.2760852
+    },
+    {
+      "type": "node",
+      "id": 4011701188,
+      "lat": -18.9146763,
+      "lon": -48.2763594
+    },
+    {
+      "type": "node",
+      "id": 4011704389,
+      "lat": -18.9145492,
+      "lon": -48.2764006
+    },
+    {
+      "type": "node",
+      "id": 4011704390,
+      "lat": -18.9143676,
+      "lon": -48.276236
+    },
+    {
+      "type": "node",
+      "id": 4011704391,
+      "lat": -18.9143106,
+      "lon": -48.2763293
+    },
+    {
+      "type": "node",
+      "id": 4011704392,
+      "lat": -18.9158875,
+      "lon": -48.2761513
+    },
+    {
+      "type": "node",
+      "id": 4011704393,
+      "lat": -18.9159863,
+      "lon": -48.2762256
+    },
+    {
+      "type": "node",
+      "id": 4011704394,
+      "lat": -18.9158775,
+      "lon": -48.2763871
+    },
+    {
+      "type": "node",
+      "id": 4011704395,
+      "lat": -18.9157787,
+      "lon": -48.2763128
+    },
+    {
+      "type": "node",
+      "id": 4019890741,
+      "lat": -18.9126465,
+      "lon": -48.2739591
+    },
+    {
+      "type": "node",
+      "id": 4019890742,
+      "lat": -18.9124721,
+      "lon": -48.2739516
+    },
+    {
+      "type": "node",
+      "id": 6130260124,
+      "lat": -18.9209631,
+      "lon": -48.268341
+    },
+    {
+      "type": "node",
+      "id": 6130260125,
+      "lat": -18.9210537,
+      "lon": -48.2682129
+    },
+    {
+      "type": "node",
+      "id": 6130260126,
+      "lat": -18.9208952,
+      "lon": -48.2680876
+    },
+    {
+      "type": "node",
+      "id": 6130260127,
+      "lat": -18.9208046,
+      "lon": -48.2682157
+    },
+    {
+      "type": "node",
+      "id": 6130260148,
+      "lat": -18.9202131,
+      "lon": -48.2675762
+    },
+    {
+      "type": "node",
+      "id": 6130260149,
+      "lat": -18.920078,
+      "lon": -48.2674756
+    },
+    {
+      "type": "node",
+      "id": 6130260150,
+      "lat": -18.9201348,
+      "lon": -48.2673904
+    },
+    {
+      "type": "node",
+      "id": 6130260151,
+      "lat": -18.9202699,
+      "lon": -48.267491
+    },
+    {
+      "type": "node",
+      "id": 6130260154,
+      "lat": -18.9199197,
+      "lon": -48.2673763
+    },
+    {
+      "type": "node",
+      "id": 6130260155,
+      "lat": -18.9199934,
+      "lon": -48.2672809
+    },
+    {
+      "type": "node",
+      "id": 6130260158,
+      "lat": -18.9193022,
+      "lon": -48.2677583
+    },
+    {
+      "type": "node",
+      "id": 6130260159,
+      "lat": -18.9194096,
+      "lon": -48.2676844
+    },
+    {
+      "type": "node",
+      "id": 6130260160,
+      "lat": -18.9193251,
+      "lon": -48.2675471
+    },
+    {
+      "type": "node",
+      "id": 6130260161,
+      "lat": -18.9192177,
+      "lon": -48.267621
+    },
+    {
+      "type": "node",
+      "id": 3916710742,
+      "lat": -18.9202723,
+      "lon": -48.2650618
+    },
+    {
+      "type": "node",
+      "id": 4015172226,
+      "lat": -18.9232736,
+      "lon": -48.2630279
+    },
+    {
+      "type": "node",
+      "id": 4015172227,
+      "lat": -18.9233834,
+      "lon": -48.263104
+    },
+    {
+      "type": "node",
+      "id": 4015172228,
+      "lat": -18.9232577,
+      "lon": -48.2633067
+    },
+    {
+      "type": "node",
+      "id": 4015172229,
+      "lat": -18.9231478,
+      "lon": -48.2632306
+    },
+    {
+      "type": "node",
+      "id": 4015172230,
+      "lat": -18.9232362,
+      "lon": -48.2628845
+    },
+    {
+      "type": "node",
+      "id": 4015172231,
+      "lat": -18.9230455,
+      "lon": -48.2627611
+    },
+    {
+      "type": "node",
+      "id": 4015172232,
+      "lat": -18.9230099,
+      "lon": -48.2627115
+    },
+    {
+      "type": "node",
+      "id": 4015172233,
+      "lat": -18.9233273,
+      "lon": -48.2626167
+    },
+    {
+      "type": "node",
+      "id": 5920329057,
+      "lat": -18.920523,
+      "lon": -48.2652411
+    },
+    {
+      "type": "node",
+      "id": 5920329058,
+      "lat": -18.9206843,
+      "lon": -48.264989
+    },
+    {
+      "type": "node",
+      "id": 5920329059,
+      "lat": -18.9204336,
+      "lon": -48.2648098
+    },
+    {
+      "type": "node",
+      "id": 6130260156,
+      "lat": -18.919852,
+      "lon": -48.2671589
+    },
+    {
+      "type": "node",
+      "id": 6130260157,
+      "lat": -18.9197783,
+      "lon": -48.2672543
+    },
+    {
+      "type": "node",
+      "id": 6130260178,
+      "lat": -18.9188349,
+      "lon": -48.2663052
+    },
+    {
+      "type": "node",
+      "id": 6130260179,
+      "lat": -18.9189525,
+      "lon": -48.2661701
+    },
+    {
+      "type": "node",
+      "id": 6130260180,
+      "lat": -18.9187682,
+      "lon": -48.2659907
+    },
+    {
+      "type": "node",
+      "id": 6130260181,
+      "lat": -18.9186506,
+      "lon": -48.2661258
+    },
+    {
+      "type": "node",
+      "id": 6130260286,
+      "lat": -18.9183776,
+      "lon": -48.2659151
+    },
+    {
+      "type": "node",
+      "id": 6130260287,
+      "lat": -18.9184584,
+      "lon": -48.2659128
+    },
+    {
+      "type": "node",
+      "id": 6130260288,
+      "lat": -18.9185585,
+      "lon": -48.2657922
+    },
+    {
+      "type": "node",
+      "id": 6130260289,
+      "lat": -18.9184562,
+      "lon": -48.2657035
+    },
+    {
+      "type": "node",
+      "id": 6130260290,
+      "lat": -18.918368,
+      "lon": -48.2658138
+    },
+    {
+      "type": "node",
+      "id": 3097528313,
+      "lat": -18.9121283,
+      "lon": -48.2737285
+    },
+    {
+      "type": "node",
+      "id": 3097528318,
+      "lat": -18.9121341,
+      "lon": -48.2731507
+    },
+    {
+      "type": "node",
+      "id": 3097528319,
+      "lat": -18.9119894,
+      "lon": -48.2730437
+    },
+    {
+      "type": "node",
+      "id": 3097528320,
+      "lat": -18.9122445,
+      "lon": -48.2726583
+    },
+    {
+      "type": "node",
+      "id": 3097528321,
+      "lat": -18.9115036,
+      "lon": -48.2721105
+    },
+    {
+      "type": "node",
+      "id": 3097528322,
+      "lat": -18.9119542,
+      "lon": -48.2714296
+    },
+    {
+      "type": "node",
+      "id": 3097528323,
+      "lat": -18.9129057,
+      "lon": -48.2721331
+    },
+    {
+      "type": "node",
+      "id": 3097528325,
+      "lat": -18.9124731,
+      "lon": -48.2727868
+    },
+    {
+      "type": "node",
+      "id": 3097528326,
+      "lat": -18.9124071,
+      "lon": -48.2727381
+    },
+    {
+      "type": "node",
+      "id": 5907316346,
+      "lat": -18.9149773,
+      "lon": -48.2692563
+    },
+    {
+      "type": "node",
+      "id": 5907316347,
+      "lat": -18.9150458,
+      "lon": -48.2691893
+    },
+    {
+      "type": "node",
+      "id": 5907316348,
+      "lat": -18.9149329,
+      "lon": -48.2690552
+    },
+    {
+      "type": "node",
+      "id": 5907316349,
+      "lat": -18.9148618,
+      "lon": -48.2691222
+    },
+    {
+      "type": "node",
+      "id": 338653734,
+      "lat": -18.9104193,
+      "lon": -48.261936
+    },
+    {
+      "type": "node",
+      "id": 338653740,
+      "lat": -18.9106855,
+      "lon": -48.2608322
+    },
+    {
+      "type": "node",
+      "id": 338653749,
+      "lat": -18.9112617,
+      "lon": -48.2609668
+    },
+    {
+      "type": "node",
+      "id": 338653756,
+      "lat": -18.9113038,
+      "lon": -48.2607169
+    },
+    {
+      "type": "node",
+      "id": 3082168346,
+      "lat": -18.9156225,
+      "lon": -48.264074
+    },
+    {
+      "type": "node",
+      "id": 3082168347,
+      "lat": -18.9155436,
+      "lon": -48.2639988
+    },
+    {
+      "type": "node",
+      "id": 3082168348,
+      "lat": -18.9156359,
+      "lon": -48.2638809
+    },
+    {
+      "type": "node",
+      "id": 3082168349,
+      "lat": -18.9157128,
+      "lon": -48.2639643
+    },
+    {
+      "type": "node",
+      "id": 5907337422,
+      "lat": -18.9126482,
+      "lon": -48.2663964
+    },
+    {
+      "type": "node",
+      "id": 5907337423,
+      "lat": -18.9126034,
+      "lon": -48.2664355
+    },
+    {
+      "type": "node",
+      "id": 5907337424,
+      "lat": -18.9127046,
+      "lon": -48.266565
+    },
+    {
+      "type": "node",
+      "id": 5907337425,
+      "lat": -18.9127494,
+      "lon": -48.2665259
+    },
+    {
+      "type": "node",
+      "id": 6130260362,
+      "lat": -18.9157024,
+      "lon": -48.2632193
+    },
+    {
+      "type": "node",
+      "id": 6130260363,
+      "lat": -18.9158143,
+      "lon": -48.2631556
+    },
+    {
+      "type": "node",
+      "id": 6130260364,
+      "lat": -18.915779,
+      "lon": -48.2629919
+    },
+    {
+      "type": "node",
+      "id": 6130260365,
+      "lat": -18.915575,
+      "lon": -48.2630837
+    },
+    {
+      "type": "node",
+      "id": 6233832128,
+      "lat": -18.9107064,
+      "lon": -48.2608371
+    },
+    {
+      "type": "node",
+      "id": 4012858227,
+      "lat": -18.9300863,
+      "lon": -48.238775
+    },
+    {
+      "type": "node",
+      "id": 3084835725,
+      "lat": -18.9282006,
+      "lon": -48.2429744
+    },
+    {
+      "type": "node",
+      "id": 3084835726,
+      "lat": -18.9283544,
+      "lon": -48.2430069
+    },
+    {
+      "type": "node",
+      "id": 3084835727,
+      "lat": -18.9283467,
+      "lon": -48.2430761
+    },
+    {
+      "type": "node",
+      "id": 3084835728,
+      "lat": -18.9291043,
+      "lon": -48.2432915
+    },
+    {
+      "type": "node",
+      "id": 3084835729,
+      "lat": -18.9292581,
+      "lon": -48.2427183
+    },
+    {
+      "type": "node",
+      "id": 3084835730,
+      "lat": -18.9287928,
+      "lon": -48.2425882
+    },
+    {
+      "type": "node",
+      "id": 3084835731,
+      "lat": -18.9287813,
+      "lon": -48.2426492
+    },
+    {
+      "type": "node",
+      "id": 3084835732,
+      "lat": -18.9283237,
+      "lon": -48.2425191
+    },
+    {
+      "type": "node",
+      "id": 4012858222,
+      "lat": -18.9299627,
+      "lon": -48.2392511
+    },
+    {
+      "type": "node",
+      "id": 4012858223,
+      "lat": -18.9298422,
+      "lon": -48.2392161
+    },
+    {
+      "type": "node",
+      "id": 4012858224,
+      "lat": -18.9298561,
+      "lon": -48.2391628
+    },
+    {
+      "type": "node",
+      "id": 4012858225,
+      "lat": -18.9289036,
+      "lon": -48.2388863
+    },
+    {
+      "type": "node",
+      "id": 4012858226,
+      "lat": -18.9290133,
+      "lon": -48.2384636
+    },
+    {
+      "type": "node",
+      "id": 5882420989,
+      "lat": -18.9201045,
+      "lon": -48.2564822
+    },
+    {
+      "type": "node",
+      "id": 5882420990,
+      "lat": -18.9201324,
+      "lon": -48.256572
+    },
+    {
+      "type": "node",
+      "id": 5882420991,
+      "lat": -18.9198949,
+      "lon": -48.2566545
+    },
+    {
+      "type": "node",
+      "id": 5882420992,
+      "lat": -18.919867,
+      "lon": -48.2565647
+    },
+    {
+      "type": "node",
+      "id": 5882420994,
+      "lat": -18.9200494,
+      "lon": -48.2561504
+    },
+    {
+      "type": "node",
+      "id": 5882420995,
+      "lat": -18.9198196,
+      "lon": -48.256252
+    },
+    {
+      "type": "node",
+      "id": 5882420997,
+      "lat": -18.9197987,
+      "lon": -48.2561562
+    },
+    {
+      "type": "node",
+      "id": 5882420998,
+      "lat": -18.9200328,
+      "lon": -48.2560511
+    },
+    {
+      "type": "node",
+      "id": 3050525328,
+      "lat": -18.9188613,
+      "lon": -48.2492746
+    },
+    {
+      "type": "node",
+      "id": 3097784756,
+      "lat": -18.9186764,
+      "lon": -48.2499452
+    },
+    {
+      "type": "node",
+      "id": 3097784757,
+      "lat": -18.9182316,
+      "lon": -48.249821
+    },
+    {
+      "type": "node",
+      "id": 4012858233,
+      "lat": -18.9186942,
+      "lon": -48.2498831
+    },
+    {
+      "type": "node",
+      "id": 4012858236,
+      "lat": -18.9188411,
+      "lon": -48.2493406
+    },
+    {
+      "type": "node",
+      "id": 4012858238,
+      "lat": -18.9184079,
+      "lon": -48.2491679
+    },
+    {
+      "type": "node",
+      "id": 4012858259,
+      "lat": -18.9187515,
+      "lon": -48.2481448
+    },
+    {
+      "type": "node",
+      "id": 4012858262,
+      "lat": -18.9187951,
+      "lon": -48.2479817
+    },
+    {
+      "type": "node",
+      "id": 4012858263,
+      "lat": -18.9188037,
+      "lon": -48.2479457
+    },
+    {
+      "type": "node",
+      "id": 4012858264,
+      "lat": -18.9188201,
+      "lon": -48.2478758
+    },
+    {
+      "type": "node",
+      "id": 4012858271,
+      "lat": -18.9178637,
+      "lon": -48.2522936
+    },
+    {
+      "type": "node",
+      "id": 4012858272,
+      "lat": -18.9176521,
+      "lon": -48.2522319
+    },
+    {
+      "type": "node",
+      "id": 4012858274,
+      "lat": -18.9179396,
+      "lon": -48.2520028
+    },
+    {
+      "type": "node",
+      "id": 4012858275,
+      "lat": -18.917728,
+      "lon": -48.2519411
+    },
+    {
+      "type": "node",
+      "id": 5501950674,
+      "lat": -18.9224037,
+      "lon": -48.2476147
+    },
+    {
+      "type": "node",
+      "id": 5830419772,
+      "lat": -18.9204737,
+      "lon": -48.2487005
+    },
+    {
+      "type": "node",
+      "id": 5830419773,
+      "lat": -18.9206811,
+      "lon": -48.2487662
+    },
+    {
+      "type": "node",
+      "id": 5830419774,
+      "lat": -18.920445,
+      "lon": -48.2488063
+    },
+    {
+      "type": "node",
+      "id": 5830419775,
+      "lat": -18.9206511,
+      "lon": -48.2488717
+    },
+    {
+      "type": "node",
+      "id": 5830419776,
+      "lat": -18.9204119,
+      "lon": -48.2489288
+    },
+    {
+      "type": "node",
+      "id": 5830419777,
+      "lat": -18.9206189,
+      "lon": -48.2489851
+    },
+    {
+      "type": "node",
+      "id": 5830420701,
+      "lat": -18.9218438,
+      "lon": -48.2490363
+    },
+    {
+      "type": "node",
+      "id": 5830420707,
+      "lat": -18.9220461,
+      "lon": -48.2490947
+    },
+    {
+      "type": "node",
+      "id": 5832507703,
+      "lat": -18.9189529,
+      "lon": -48.2482038
+    },
+    {
+      "type": "node",
+      "id": 5857333450,
+      "lat": -18.9203984,
+      "lon": -48.2483165
+    },
+    {
+      "type": "node",
+      "id": 5857333451,
+      "lat": -18.9203186,
+      "lon": -48.2482913
+    },
+    {
+      "type": "node",
+      "id": 5857333452,
+      "lat": -18.9202802,
+      "lon": -48.2484272
+    },
+    {
+      "type": "node",
+      "id": 5857333453,
+      "lat": -18.92036,
+      "lon": -48.2484524
+    },
+    {
+      "type": "node",
+      "id": 5874296840,
+      "lat": -18.9202884,
+      "lon": -48.2478573
+    },
+    {
+      "type": "node",
+      "id": 5880196786,
+      "lat": -18.9197899,
+      "lon": -48.2497489
+    },
+    {
+      "type": "node",
+      "id": 5880196787,
+      "lat": -18.9197539,
+      "lon": -48.2498883
+    },
+    {
+      "type": "node",
+      "id": 5880196788,
+      "lat": -18.9199537,
+      "lon": -48.2499466
+    },
+    {
+      "type": "node",
+      "id": 5880196789,
+      "lat": -18.9199892,
+      "lon": -48.249807
+    },
+    {
+      "type": "node",
+      "id": 5882431960,
+      "lat": -18.9207226,
+      "lon": -48.2533797
+    },
+    {
+      "type": "node",
+      "id": 5882431961,
+      "lat": -18.9207493,
+      "lon": -48.2532822
+    },
+    {
+      "type": "node",
+      "id": 5882431962,
+      "lat": -18.9209499,
+      "lon": -48.2533438
+    },
+    {
+      "type": "node",
+      "id": 5882431963,
+      "lat": -18.9209231,
+      "lon": -48.2534412
+    },
+    {
+      "type": "node",
+      "id": 5882448024,
+      "lat": -18.9217042,
+      "lon": -48.251186
+    },
+    {
+      "type": "node",
+      "id": 5882448025,
+      "lat": -18.9219114,
+      "lon": -48.251243
+    },
+    {
+      "type": "node",
+      "id": 5882448026,
+      "lat": -18.9217196,
+      "lon": -48.251129
+    },
+    {
+      "type": "node",
+      "id": 5882448027,
+      "lat": -18.9219276,
+      "lon": -48.2511901
+    },
+    {
+      "type": "node",
+      "id": 5907229580,
+      "lat": -18.9226502,
+      "lon": -48.2480401
+    },
+    {
+      "type": "node",
+      "id": 5907229581,
+      "lat": -18.922634,
+      "lon": -48.2481042
+    },
+    {
+      "type": "node",
+      "id": 5907229582,
+      "lat": -18.9225236,
+      "lon": -48.2480729
+    },
+    {
+      "type": "node",
+      "id": 5907229583,
+      "lat": -18.9225399,
+      "lon": -48.2480088
+    },
+    {
+      "type": "node",
+      "id": 5923922228,
+      "lat": -18.9209381,
+      "lon": -48.2495033
+    },
+    {
+      "type": "node",
+      "id": 5923941028,
+      "lat": -18.9203858,
+      "lon": -48.2477406
+    },
+    {
+      "type": "node",
+      "id": 5923941029,
+      "lat": -18.9204957,
+      "lon": -48.2479158
+    },
+    {
+      "type": "node",
+      "id": 5933141886,
+      "lat": -18.920993,
+      "lon": -48.253013
+    },
+    {
+      "type": "node",
+      "id": 5933141887,
+      "lat": -18.9210278,
+      "lon": -48.2528745
+    },
+    {
+      "type": "node",
+      "id": 5933141888,
+      "lat": -18.921076,
+      "lon": -48.2528881
+    },
+    {
+      "type": "node",
+      "id": 5933141889,
+      "lat": -18.9210413,
+      "lon": -48.2530265
+    },
+    {
+      "type": "node",
+      "id": 5975896847,
+      "lat": -18.9188909,
+      "lon": -48.2480419
+    },
+    {
+      "type": "node",
+      "id": 5975896848,
+      "lat": -18.9189249,
+      "lon": -48.247904
+    },
+    {
+      "type": "node",
+      "id": 5975896849,
+      "lat": -18.9189873,
+      "lon": -48.2480687
+    },
+    {
+      "type": "node",
+      "id": 6009846126,
+      "lat": -18.920321,
+      "lon": -48.2477219
+    },
+    {
+      "type": "node",
+      "id": 6023786520,
+      "lat": -18.922205,
+      "lon": -48.2476826
+    },
+    {
+      "type": "node",
+      "id": 6077480466,
+      "lat": -18.9208661,
+      "lon": -48.2497813
+    },
+    {
+      "type": "node",
+      "id": 6077480467,
+      "lat": -18.9207625,
+      "lon": -48.2497512
+    },
+    {
+      "type": "node",
+      "id": 6077592955,
+      "lat": -18.9187864,
+      "lon": -48.2480114
+    },
+    {
+      "type": "node",
+      "id": 6077592956,
+      "lat": -18.9188989,
+      "lon": -48.2480093
+    },
+    {
+      "type": "node",
+      "id": 6077592957,
+      "lat": -18.9189077,
+      "lon": -48.2479734
+    },
+    {
+      "type": "node",
+      "id": 6093969239,
+      "lat": -18.9223716,
+      "lon": -48.2477331
+    },
+    {
+      "type": "node",
+      "id": 6114185223,
+      "lat": -18.9208344,
+      "lon": -48.2494736
+    },
+    {
+      "type": "node",
+      "id": 6114188503,
+      "lat": -18.9218046,
+      "lon": -48.2491734
+    },
+    {
+      "type": "node",
+      "id": 6114188505,
+      "lat": -18.922006,
+      "lon": -48.2492336
+    },
+    {
+      "type": "node",
+      "id": 6114251122,
+      "lat": -18.9202529,
+      "lon": -48.2479982
+    },
+    {
+      "type": "node",
+      "id": 6114251123,
+      "lat": -18.920459,
+      "lon": -48.2480572
+    },
+    {
+      "type": "node",
+      "id": 6266385586,
+      "lat": -18.9169538,
+      "lon": -48.2487908
+    },
+    {
+      "type": "node",
+      "id": 338653762,
+      "lat": -18.9107661,
+      "lon": -48.2605831
+    },
+    {
+      "type": "node",
+      "id": 338653784,
+      "lat": -18.9109376,
+      "lon": -48.259375
+    },
+    {
+      "type": "node",
+      "id": 3050521929,
+      "lat": -18.9117922,
+      "lon": -48.2581246
+    },
+    {
+      "type": "node",
+      "id": 3050521930,
+      "lat": -18.9113045,
+      "lon": -48.2581762
+    },
+    {
+      "type": "node",
+      "id": 3050521931,
+      "lat": -18.9113153,
+      "lon": -48.258265
+    },
+    {
+      "type": "node",
+      "id": 3050521932,
+      "lat": -18.9109567,
+      "lon": -48.2583134
+    },
+    {
+      "type": "node",
+      "id": 3050522233,
+      "lat": -18.9109472,
+      "lon": -48.2582355
+    },
+    {
+      "type": "node",
+      "id": 3050522241,
+      "lat": -18.9104355,
+      "lon": -48.2573012
+    },
+    {
+      "type": "node",
+      "id": 3050522242,
+      "lat": -18.9115183,
+      "lon": -48.2571791
+    },
+    {
+      "type": "node",
+      "id": 3050522243,
+      "lat": -18.9115996,
+      "lon": -48.2577129
+    },
+    {
+      "type": "node",
+      "id": 3050522244,
+      "lat": -18.9117623,
+      "lon": -48.2576948
+    },
+    {
+      "type": "node",
+      "id": 4019890692,
+      "lat": -18.9108649,
+      "lon": -48.2597522
+    },
+    {
+      "type": "node",
+      "id": 4019890693,
+      "lat": -18.9113889,
+      "lon": -48.2598651
+    },
+    {
+      "type": "node",
+      "id": 4019890694,
+      "lat": -18.9114418,
+      "lon": -48.2595908
+    },
+    {
+      "type": "node",
+      "id": 5484805532,
+      "lat": -18.9145403,
+      "lon": -48.2582078
+    },
+    {
+      "type": "node",
+      "id": 5484805535,
+      "lat": -18.9145419,
+      "lon": -48.2585671
+    },
+    {
+      "type": "node",
+      "id": 5907327087,
+      "lat": -18.9146233,
+      "lon": -48.2585618
+    },
+    {
+      "type": "node",
+      "id": 5907327088,
+      "lat": -18.9145821,
+      "lon": -48.2582094
+    },
+    {
+      "type": "node",
+      "id": 5941498409,
+      "lat": -18.9148662,
+      "lon": -48.2556055
+    },
+    {
+      "type": "node",
+      "id": 5941498410,
+      "lat": -18.9150495,
+      "lon": -48.2556579
+    },
+    {
+      "type": "node",
+      "id": 5941498411,
+      "lat": -18.9150839,
+      "lon": -48.2555258
+    },
+    {
+      "type": "node",
+      "id": 5941498412,
+      "lat": -18.9148999,
+      "lon": -48.2554736
+    },
+    {
+      "type": "node",
+      "id": 6130260653,
+      "lat": -18.9110438,
+      "lon": -48.259505
+    },
+    {
+      "type": "node",
+      "id": 6130260654,
+      "lat": -18.9110636,
+      "lon": -48.2594021
+    },
+    {
+      "type": "node",
+      "id": 6130260655,
+      "lat": -18.9108519,
+      "lon": -48.2598517
+    },
+    {
+      "type": "node",
+      "id": 6130260656,
+      "lat": -18.9109976,
+      "lon": -48.2598806
+    },
+    {
+      "type": "node",
+      "id": 6130260657,
+      "lat": -18.911013,
+      "lon": -48.2597841
+    },
+    {
+      "type": "node",
+      "id": 6130260658,
+      "lat": -18.9110088,
+      "lon": -48.2598104
+    },
+    {
+      "type": "node",
+      "id": 6233832125,
+      "lat": -18.9110052,
+      "lon": -48.2598332
+    },
+    {
+      "type": "node",
+      "id": 6233832126,
+      "lat": -18.9109183,
+      "lon": -48.2598649
+    },
+    {
+      "type": "node",
+      "id": 6233832127,
+      "lat": -18.9107757,
+      "lon": -48.2605855
+    },
+    {
+      "type": "node",
+      "id": 5905462805,
+      "lat": -18.9118979,
+      "lon": -48.2509759
+    },
+    {
+      "type": "node",
+      "id": 5905462806,
+      "lat": -18.91186,
+      "lon": -48.2511101
+    },
+    {
+      "type": "node",
+      "id": 5905462807,
+      "lat": -18.9120712,
+      "lon": -48.251169
+    },
+    {
+      "type": "node",
+      "id": 5905462808,
+      "lat": -18.912106,
+      "lon": -48.2510359
+    },
+    {
+      "type": "node",
+      "id": 5905463475,
+      "lat": -18.9122489,
+      "lon": -48.2512203
+    },
+    {
+      "type": "node",
+      "id": 5905463476,
+      "lat": -18.9123663,
+      "lon": -48.2512498
+    },
+    {
+      "type": "node",
+      "id": 5905463477,
+      "lat": -18.9123984,
+      "lon": -48.251107
+    },
+    {
+      "type": "node",
+      "id": 5905463478,
+      "lat": -18.9122811,
+      "lon": -48.2510775
+    },
+    {
+      "type": "node",
+      "id": 5923955773,
+      "lat": -18.9155888,
+      "lon": -48.2511826
+    },
+    {
+      "type": "node",
+      "id": 5923955774,
+      "lat": -18.9156297,
+      "lon": -48.2510254
+    },
+    {
+      "type": "node",
+      "id": 5923955775,
+      "lat": -18.9158373,
+      "lon": -48.2510859
+    },
+    {
+      "type": "node",
+      "id": 5923955776,
+      "lat": -18.9157963,
+      "lon": -48.2512431
+    },
+    {
+      "type": "node",
+      "id": 5923962785,
+      "lat": -18.9155463,
+      "lon": -48.2515887
+    },
+    {
+      "type": "node",
+      "id": 5923962786,
+      "lat": -18.9155818,
+      "lon": -48.2514622
+    },
+    {
+      "type": "node",
+      "id": 5923962787,
+      "lat": -18.9157221,
+      "lon": -48.2515037
+    },
+    {
+      "type": "node",
+      "id": 5923962788,
+      "lat": -18.9156884,
+      "lon": -48.2516322
+    },
+    {
+      "type": "node",
+      "id": 5923962789,
+      "lat": -18.9154752,
+      "lon": -48.2524429
+    },
+    {
+      "type": "node",
+      "id": 5923962790,
+      "lat": -18.9152751,
+      "lon": -48.2523895
+    },
+    {
+      "type": "node",
+      "id": 5923962791,
+      "lat": -18.9153069,
+      "lon": -48.2522432
+    },
+    {
+      "type": "node",
+      "id": 5923962792,
+      "lat": -18.9155126,
+      "lon": -48.2522985
+    },
+    {
+      "type": "node",
+      "id": 6266385585,
+      "lat": -18.9166441,
+      "lon": -48.2487027
+    },
+    {
+      "type": "node",
+      "id": 6266385587,
+      "lat": -18.9169198,
+      "lon": -48.2489245
+    },
+    {
+      "type": "node",
+      "id": 6266385588,
+      "lat": -18.91661,
+      "lon": -48.2488364
+    },
+    {
+      "type": "node",
+      "id": 4015250994,
+      "lat": -18.9204968,
+      "lon": -48.2470447
+    },
+    {
+      "type": "node",
+      "id": 5857315689,
+      "lat": -18.9190102,
+      "lon": -48.2458904
+    },
+    {
+      "type": "node",
+      "id": 5857333290,
+      "lat": -18.9194179,
+      "lon": -48.2468742
+    },
+    {
+      "type": "node",
+      "id": 5857333291,
+      "lat": -18.919111,
+      "lon": -48.2467842
+    },
+    {
+      "type": "node",
+      "id": 5857333293,
+      "lat": -18.9190732,
+      "lon": -48.2469169
+    },
+    {
+      "type": "node",
+      "id": 5857333294,
+      "lat": -18.919187,
+      "lon": -48.2469505
+    },
+    {
+      "type": "node",
+      "id": 5857333295,
+      "lat": -18.919222,
+      "lon": -48.2468167
+    },
+    {
+      "type": "node",
+      "id": 5857333296,
+      "lat": -18.9190312,
+      "lon": -48.2470761
+    },
+    {
+      "type": "node",
+      "id": 5857333297,
+      "lat": -18.9191451,
+      "lon": -48.2471092
+    },
+    {
+      "type": "node",
+      "id": 5873576919,
+      "lat": -18.9188504,
+      "lon": -48.2458386
+    },
+    {
+      "type": "node",
+      "id": 5873576920,
+      "lat": -18.9188097,
+      "lon": -48.2459793
+    },
+    {
+      "type": "node",
+      "id": 5873576921,
+      "lat": -18.9189709,
+      "lon": -48.2460257
+    },
+    {
+      "type": "node",
+      "id": 5873576960,
+      "lat": -18.9207057,
+      "lon": -48.2471063
+    },
+    {
+      "type": "node",
+      "id": 5873576961,
+      "lat": -18.920461,
+      "lon": -48.2471803
+    },
+    {
+      "type": "node",
+      "id": 5873576962,
+      "lat": -18.92067,
+      "lon": -48.2472416
+    },
+    {
+      "type": "node",
+      "id": 5923941027,
+      "lat": -18.9203575,
+      "lon": -48.2475813
+    },
+    {
+      "type": "node",
+      "id": 5940658106,
+      "lat": -18.9171152,
+      "lon": -48.2456401
+    },
+    {
+      "type": "node",
+      "id": 5940658107,
+      "lat": -18.9170796,
+      "lon": -48.2457744
+    },
+    {
+      "type": "node",
+      "id": 5940658108,
+      "lat": -18.9172452,
+      "lon": -48.2456791
+    },
+    {
+      "type": "node",
+      "id": 5940658109,
+      "lat": -18.9172087,
+      "lon": -48.2458132
+    },
+    {
+      "type": "node",
+      "id": 5940676944,
+      "lat": -18.9173264,
+      "lon": -48.2460672
+    },
+    {
+      "type": "node",
+      "id": 5940676945,
+      "lat": -18.9174515,
+      "lon": -48.2461043
+    },
+    {
+      "type": "node",
+      "id": 5940676946,
+      "lat": -18.9174736,
+      "lon": -48.2460209
+    },
+    {
+      "type": "node",
+      "id": 5940676947,
+      "lat": -18.9173485,
+      "lon": -48.2459839
+    },
+    {
+      "type": "node",
+      "id": 5940733079,
+      "lat": -18.9223852,
+      "lon": -48.247008
+    },
+    {
+      "type": "node",
+      "id": 5940733081,
+      "lat": -18.9223493,
+      "lon": -48.2471463
+    },
+    {
+      "type": "node",
+      "id": 5940733082,
+      "lat": -18.9224434,
+      "lon": -48.2471739
+    },
+    {
+      "type": "node",
+      "id": 5940733083,
+      "lat": -18.9224084,
+      "lon": -48.2473101
+    },
+    {
+      "type": "node",
+      "id": 5940733084,
+      "lat": -18.922554,
+      "lon": -48.2472056
+    },
+    {
+      "type": "node",
+      "id": 5940733485,
+      "lat": -18.9225189,
+      "lon": -48.2473422
+    },
+    {
+      "type": "node",
+      "id": 6001783369,
+      "lat": -18.9172133,
+      "lon": -48.244058
+    },
+    {
+      "type": "node",
+      "id": 6001783370,
+      "lat": -18.9171416,
+      "lon": -48.2443326
+    },
+    {
+      "type": "node",
+      "id": 6001783371,
+      "lat": -18.9173227,
+      "lon": -48.2440899
+    },
+    {
+      "type": "node",
+      "id": 6001783372,
+      "lat": -18.9172508,
+      "lon": -48.2443656
+    },
+    {
+      "type": "node",
+      "id": 6001787486,
+      "lat": -18.9179711,
+      "lon": -48.2444744
+    },
+    {
+      "type": "node",
+      "id": 6001787487,
+      "lat": -18.9179484,
+      "lon": -48.2445625
+    },
+    {
+      "type": "node",
+      "id": 6001787488,
+      "lat": -18.9180171,
+      "lon": -48.2442963
+    },
+    {
+      "type": "node",
+      "id": 6001787489,
+      "lat": -18.9181185,
+      "lon": -48.2443249
+    },
+    {
+      "type": "node",
+      "id": 6001787490,
+      "lat": -18.9180495,
+      "lon": -48.2445919
+    },
+    {
+      "type": "node",
+      "id": 6008349720,
+      "lat": -18.9189744,
+      "lon": -48.2473384
+    },
+    {
+      "type": "node",
+      "id": 6009846110,
+      "lat": -18.9190081,
+      "lon": -48.2472042
+    },
+    {
+      "type": "node",
+      "id": 6009846111,
+      "lat": -18.9192097,
+      "lon": -48.2472603
+    },
+    {
+      "type": "node",
+      "id": 6009846112,
+      "lat": -18.9191757,
+      "lon": -48.2473948
+    },
+    {
+      "type": "node",
+      "id": 6009846127,
+      "lat": -18.9204225,
+      "lon": -48.2476003
+    },
+    {
+      "type": "node",
+      "id": 6016474226,
+      "lat": -18.9192273,
+      "lon": -48.247133
+    },
+    {
+      "type": "node",
+      "id": 6016474227,
+      "lat": -18.9193054,
+      "lon": -48.2468412
+    },
+    {
+      "type": "node",
+      "id": 6016474228,
+      "lat": -18.9193411,
+      "lon": -48.247166
+    },
+    {
+      "type": "node",
+      "id": 6062132119,
+      "lat": -18.9227743,
+      "lon": -48.2455216
+    },
+    {
+      "type": "node",
+      "id": 6062132120,
+      "lat": -18.9228121,
+      "lon": -48.2453756
+    },
+    {
+      "type": "node",
+      "id": 6062132121,
+      "lat": -18.9229768,
+      "lon": -48.2454234
+    },
+    {
+      "type": "node",
+      "id": 6062132122,
+      "lat": -18.9229389,
+      "lon": -48.2455694
+    },
+    {
+      "type": "node",
+      "id": 6062132124,
+      "lat": -18.9228791,
+      "lon": -48.2451074
+    },
+    {
+      "type": "node",
+      "id": 6062132125,
+      "lat": -18.9229155,
+      "lon": -48.2449693
+    },
+    {
+      "type": "node",
+      "id": 6062132126,
+      "lat": -18.9231235,
+      "lon": -48.2450306
+    },
+    {
+      "type": "node",
+      "id": 6062132127,
+      "lat": -18.9230871,
+      "lon": -48.2451687
+    },
+    {
+      "type": "node",
+      "id": 6062365861,
+      "lat": -18.9225345,
+      "lon": -48.2470513
+    },
+    {
+      "type": "node",
+      "id": 6062365862,
+      "lat": -18.9224982,
+      "lon": -48.24719
+    },
+    {
+      "type": "node",
+      "id": 6062375089,
+      "lat": -18.9219637,
+      "lon": -48.246444
+    },
+    {
+      "type": "node",
+      "id": 6062375090,
+      "lat": -18.9220329,
+      "lon": -48.2461762
+    },
+    {
+      "type": "node",
+      "id": 6062375107,
+      "lat": -18.9221487,
+      "lon": -48.2462092
+    },
+    {
+      "type": "node",
+      "id": 6062375108,
+      "lat": -18.9220796,
+      "lon": -48.2464773
+    },
+    {
+      "type": "node",
+      "id": 6087804638,
+      "lat": -18.9189337,
+      "lon": -48.2461594
+    },
+    {
+      "type": "node",
+      "id": 6093969240,
+      "lat": -18.9222371,
+      "lon": -48.2475643
+    },
+    {
+      "type": "node",
+      "id": 6122250744,
+      "lat": -18.9188097,
+      "lon": -48.2459793
+    },
+    {
+      "type": "node",
+      "id": 6122250745,
+      "lat": -18.9187752,
+      "lon": -48.2461123
+    },
+    {
+      "type": "node",
+      "id": 6232956682,
+      "lat": -18.9232734,
+      "lon": -48.2444273
+    },
+    {
+      "type": "node",
+      "id": 6232956683,
+      "lat": -18.923158,
+      "lon": -48.2443884
+    },
+    {
+      "type": "node",
+      "id": 6232956684,
+      "lat": -18.9231302,
+      "lon": -48.2444805
+    },
+    {
+      "type": "node",
+      "id": 6232956985,
+      "lat": -18.9232457,
+      "lon": -48.2445194
+    },
+    {
+      "type": "node",
+      "id": 6238706398,
+      "lat": -18.9186321,
+      "lon": -48.2470914
+    },
+    {
+      "type": "node",
+      "id": 6238706399,
+      "lat": -18.9186047,
+      "lon": -48.2471966
+    },
+    {
+      "type": "node",
+      "id": 6238706400,
+      "lat": -18.9186816,
+      "lon": -48.247219
+    },
+    {
+      "type": "node",
+      "id": 6238706401,
+      "lat": -18.918709,
+      "lon": -48.2471138
+    },
+    {
+      "type": "node",
+      "id": 6238706402,
+      "lat": -18.9187697,
+      "lon": -48.2468999
+    },
+    {
+      "type": "node",
+      "id": 6238706403,
+      "lat": -18.9186272,
+      "lon": -48.2468549
+    },
+    {
+      "type": "node",
+      "id": 6238706404,
+      "lat": -18.9186033,
+      "lon": -48.2469394
+    },
+    {
+      "type": "node",
+      "id": 6238706405,
+      "lat": -18.9187458,
+      "lon": -48.2469843
+    },
+    {
+      "type": "node",
+      "id": 6238706406,
+      "lat": -18.918794,
+      "lon": -48.2468991
+    },
+    {
+      "type": "node",
+      "id": 6238706407,
+      "lat": -18.9185878,
+      "lon": -48.2468341
+    },
+    {
+      "type": "node",
+      "id": 6238706408,
+      "lat": -18.9186126,
+      "lon": -48.2467463
+    },
+    {
+      "type": "node",
+      "id": 6238706409,
+      "lat": -18.9188188,
+      "lon": -48.2468113
+    },
+    {
+      "type": "node",
+      "id": 6238780251,
+      "lat": -18.9170429,
+      "lon": -48.245913
+    },
+    {
+      "type": "node",
+      "id": 6238780252,
+      "lat": -18.9171114,
+      "lon": -48.2459345
+    },
+    {
+      "type": "node",
+      "id": 6238780253,
+      "lat": -18.9170921,
+      "lon": -48.2460033
+    },
+    {
+      "type": "node",
+      "id": 6238780254,
+      "lat": -18.9170236,
+      "lon": -48.2459819
+    },
+    {
+      "type": "node",
+      "id": 6238780255,
+      "lat": -18.9170162,
+      "lon": -48.2459835
+    },
+    {
+      "type": "node",
+      "id": 6238780256,
+      "lat": -18.9170377,
+      "lon": -48.2459021
+    },
+    {
+      "type": "node",
+      "id": 6238780257,
+      "lat": -18.9170029,
+      "lon": -48.2460342
+    },
+    {
+      "type": "node",
+      "id": 6238780259,
+      "lat": -18.9169644,
+      "lon": -48.2458805
+    },
+    {
+      "type": "node",
+      "id": 6238780788,
+      "lat": -18.9179634,
+      "lon": -48.2462402
+    },
+    {
+      "type": "node",
+      "id": 6238780789,
+      "lat": -18.9179815,
+      "lon": -48.2461828
+    },
+    {
+      "type": "node",
+      "id": 6238780790,
+      "lat": -18.9180125,
+      "lon": -48.2461938
+    },
+    {
+      "type": "node",
+      "id": 6238780791,
+      "lat": -18.9179944,
+      "lon": -48.2462511
+    },
+    {
+      "type": "node",
+      "id": 6270602917,
+      "lat": -18.9229074,
+      "lon": -48.2457005
+    },
+    {
+      "type": "node",
+      "id": 6270602918,
+      "lat": -18.9227437,
+      "lon": -48.2456468
+    },
+    {
+      "type": "node",
+      "id": 6270602919,
+      "lat": -18.9227706,
+      "lon": -48.2455553
+    },
+    {
+      "type": "node",
+      "id": 6270602920,
+      "lat": -18.9229342,
+      "lon": -48.245609
+    },
+    {
+      "type": "node",
+      "id": 6270602925,
+      "lat": -18.9196818,
+      "lon": -48.2453727
+    },
+    {
+      "type": "node",
+      "id": 6270602926,
+      "lat": -18.9194858,
+      "lon": -48.2453145
+    },
+    {
+      "type": "node",
+      "id": 6270602927,
+      "lat": -18.9194524,
+      "lon": -48.2454402
+    },
+    {
+      "type": "node",
+      "id": 6270602928,
+      "lat": -18.9196485,
+      "lon": -48.2454984
+    },
+    {
+      "type": "node",
+      "id": 6270602929,
+      "lat": -18.9190535,
+      "lon": -48.2469951
+    },
+    {
+      "type": "node",
+      "id": 6270602930,
+      "lat": -18.9190966,
+      "lon": -48.2470943
+    },
+    {
+      "type": "node",
+      "id": 5873521539,
+      "lat": -18.9150923,
+      "lon": -48.2444807
+    },
+    {
+      "type": "node",
+      "id": 5873521540,
+      "lat": -18.9151354,
+      "lon": -48.2443372
+    },
+    {
+      "type": "node",
+      "id": 5873521541,
+      "lat": -18.915001,
+      "lon": -48.2442983
+    },
+    {
+      "type": "node",
+      "id": 5873521542,
+      "lat": -18.9149667,
+      "lon": -48.2444445
+    },
+    {
+      "type": "node",
+      "id": 5873521547,
+      "lat": -18.9166146,
+      "lon": -48.2446188
+    },
+    {
+      "type": "node",
+      "id": 5873521548,
+      "lat": -18.9165806,
+      "lon": -48.2447554
+    },
+    {
+      "type": "node",
+      "id": 5873521550,
+      "lat": -18.9165465,
+      "lon": -48.2448925
+    },
+    {
+      "type": "node",
+      "id": 5908109743,
+      "lat": -18.9130343,
+      "lon": -48.2440243
+    },
+    {
+      "type": "node",
+      "id": 5908109744,
+      "lat": -18.9129646,
+      "lon": -48.244288
+    },
+    {
+      "type": "node",
+      "id": 5908109745,
+      "lat": -18.9129322,
+      "lon": -48.2439891
+    },
+    {
+      "type": "node",
+      "id": 5908109746,
+      "lat": -18.9128601,
+      "lon": -48.2442545
+    },
+    {
+      "type": "node",
+      "id": 5908122390,
+      "lat": -18.9167256,
+      "lon": -48.2446504
+    },
+    {
+      "type": "node",
+      "id": 5908122391,
+      "lat": -18.9166572,
+      "lon": -48.2449231
+    },
+    {
+      "type": "node",
+      "id": 6238780258,
+      "lat": -18.9169296,
+      "lon": -48.2460126
+    },
+    {
+      "type": "node",
+      "id": 5957542285,
+      "lat": -18.9061321,
+      "lon": -48.3232144
+    },
+    {
+      "type": "node",
+      "id": 5957542286,
+      "lat": -18.9070222,
+      "lon": -48.3232422
+    },
+    {
+      "type": "node",
+      "id": 5957542287,
+      "lat": -18.9070326,
+      "lon": -48.3228667
+    },
+    {
+      "type": "node",
+      "id": 5957542288,
+      "lat": -18.9072622,
+      "lon": -48.3228739
+    },
+    {
+      "type": "node",
+      "id": 5957542289,
+      "lat": -18.9072788,
+      "lon": -48.3222788
+    },
+    {
+      "type": "node",
+      "id": 5957542290,
+      "lat": -18.9061591,
+      "lon": -48.322244
+    },
+    {
+      "type": "node",
+      "id": 3355862264,
+      "lat": -18.9039166,
+      "lon": -48.2936712
+    },
+    {
+      "type": "node",
+      "id": 3355862275,
+      "lat": -18.9041511,
+      "lon": -48.2952634
+    },
+    {
+      "type": "node",
+      "id": 3355862277,
+      "lat": -18.9041633,
+      "lon": -48.2947896
+    },
+    {
+      "type": "node",
+      "id": 3355862600,
+      "lat": -18.904808,
+      "lon": -48.2937151
+    },
+    {
+      "type": "node",
+      "id": 3355862602,
+      "lat": -18.9048226,
+      "lon": -48.2943842
+    },
+    {
+      "type": "node",
+      "id": 3355862263,
+      "lat": -18.9038165,
+      "lon": -48.2952438
+    },
+    {
+      "type": "node",
+      "id": 3097528280,
+      "lat": -18.9059686,
+      "lon": -48.2779855
+    },
+    {
+      "type": "node",
+      "id": 3097528281,
+      "lat": -18.9058417,
+      "lon": -48.2776234
+    },
+    {
+      "type": "node",
+      "id": 3097528282,
+      "lat": -18.9063872,
+      "lon": -48.2774437
+    },
+    {
+      "type": "node",
+      "id": 3097528283,
+      "lat": -18.9064862,
+      "lon": -48.2778273
+    },
+    {
+      "type": "node",
+      "id": 3371222710,
+      "lat": -18.9067874,
+      "lon": -48.2785724
+    },
+    {
+      "type": "node",
+      "id": 3371222711,
+      "lat": -18.9069218,
+      "lon": -48.2790355
+    },
+    {
+      "type": "node",
+      "id": 3371222712,
+      "lat": -18.9072011,
+      "lon": -48.2784524
+    },
+    {
+      "type": "node",
+      "id": 3371222713,
+      "lat": -18.9073355,
+      "lon": -48.2789155
+    },
+    {
+      "type": "node",
+      "id": 3528425291,
+      "lat": -18.9093775,
+      "lon": -48.2769462
+    },
+    {
+      "type": "node",
+      "id": 3528425292,
+      "lat": -18.9093246,
+      "lon": -48.2767421
+    },
+    {
+      "type": "node",
+      "id": 3528425293,
+      "lat": -18.9096112,
+      "lon": -48.2766519
+    },
+    {
+      "type": "node",
+      "id": 3528425294,
+      "lat": -18.9096681,
+      "lon": -48.2768646
+    },
+    {
+      "type": "node",
+      "id": 3097492351,
+      "lat": -18.9026207,
+      "lon": -48.2783093
+    },
+    {
+      "type": "node",
+      "id": 3097492352,
+      "lat": -18.9024364,
+      "lon": -48.2777045
+    },
+    {
+      "type": "node",
+      "id": 3347665853,
+      "lat": -18.9015935,
+      "lon": -48.2784239
+    },
+    {
+      "type": "node",
+      "id": 3347665854,
+      "lat": -18.9016231,
+      "lon": -48.2781232
+    },
+    {
+      "type": "node",
+      "id": 3347665855,
+      "lat": -18.9016385,
+      "lon": -48.2780122
+    },
+    {
+      "type": "node",
+      "id": 3347665856,
+      "lat": -18.9016681,
+      "lon": -48.2781095
+    },
+    {
+      "type": "node",
+      "id": 3347665857,
+      "lat": -18.9017044,
+      "lon": -48.2783901
+    },
+    {
+      "type": "node",
+      "id": 3347665859,
+      "lat": -18.9017895,
+      "lon": -48.2790671
+    },
+    {
+      "type": "node",
+      "id": 3347665860,
+      "lat": -18.9017939,
+      "lon": -48.2779649
+    },
+    {
+      "type": "node",
+      "id": 3347665861,
+      "lat": -18.901821,
+      "lon": -48.278054
+    },
+    {
+      "type": "node",
+      "id": 3347665862,
+      "lat": -18.9018671,
+      "lon": -48.2790434
+    },
+    {
+      "type": "node",
+      "id": 3347665863,
+      "lat": -18.9018949,
+      "lon": -48.2791347
+    },
+    {
+      "type": "node",
+      "id": 3347665864,
+      "lat": -18.9019311,
+      "lon": -48.2780205
+    },
+    {
+      "type": "node",
+      "id": 3347665865,
+      "lat": -18.9019562,
+      "lon": -48.2781027
+    },
+    {
+      "type": "node",
+      "id": 3347665867,
+      "lat": -18.9021237,
+      "lon": -48.2777997
+    },
+    {
+      "type": "node",
+      "id": 3347665868,
+      "lat": -18.9021939,
+      "lon": -48.2780303
+    },
+    {
+      "type": "node",
+      "id": 3347665869,
+      "lat": -18.9025302,
+      "lon": -48.2783368
+    },
+    {
+      "type": "node",
+      "id": 3347665870,
+      "lat": -18.902557,
+      "lon": -48.278879
+    },
+    {
+      "type": "node",
+      "id": 3347665871,
+      "lat": -18.9025721,
+      "lon": -48.2789284
+    },
+    {
+      "type": "node",
+      "id": 3347665874,
+      "lat": -18.9026836,
+      "lon": -48.2788404
+    },
+    {
+      "type": "node",
+      "id": 338653717,
+      "lat": -18.9097159,
+      "lon": -48.2619345
+    },
+    {
+      "type": "node",
+      "id": 338653723,
+      "lat": -18.9099561,
+      "lon": -48.2619768
+    },
+    {
+      "type": "node",
+      "id": 338653730,
+      "lat": -18.9100064,
+      "lon": -48.2618331
+    },
+    {
+      "type": "node",
+      "id": 338653815,
+      "lat": -18.9098633,
+      "lon": -48.26106
+    },
+    {
+      "type": "node",
+      "id": 1668155081,
+      "lat": -18.908187,
+      "lon": -48.2613573
+    },
+    {
+      "type": "node",
+      "id": 1668155082,
+      "lat": -18.90829,
+      "lon": -48.2613355
+    },
+    {
+      "type": "node",
+      "id": 1668155083,
+      "lat": -18.908429,
+      "lon": -48.2611287
+    },
+    {
+      "type": "node",
+      "id": 1668155084,
+      "lat": -18.9083055,
+      "lon": -48.2610198
+    },
+    {
+      "type": "node",
+      "id": 1668155088,
+      "lat": -18.9095773,
+      "lon": -48.2610579
+    },
+    {
+      "type": "node",
+      "id": 1668155089,
+      "lat": -18.9095413,
+      "lon": -48.2611232
+    },
+    {
+      "type": "node",
+      "id": 1668155090,
+      "lat": -18.9094692,
+      "lon": -48.2610851
+    },
+    {
+      "type": "node",
+      "id": 1668155091,
+      "lat": -18.909325,
+      "lon": -48.2613029
+    },
+    {
+      "type": "node",
+      "id": 1668155092,
+      "lat": -18.909289,
+      "lon": -48.2612702
+    },
+    {
+      "type": "node",
+      "id": 1668155093,
+      "lat": -18.9090933,
+      "lon": -48.261575
+    },
+    {
+      "type": "node",
+      "id": 1668155094,
+      "lat": -18.9091757,
+      "lon": -48.2616294
+    },
+    {
+      "type": "node",
+      "id": 1668155095,
+      "lat": -18.9091087,
+      "lon": -48.2617764
+    },
+    {
+      "type": "node",
+      "id": 1668155096,
+      "lat": -18.9085011,
+      "lon": -48.2616131
+    },
+    {
+      "type": "node",
+      "id": 1668155097,
+      "lat": -18.9082849,
+      "lon": -48.2614607
+    },
+    {
+      "type": "node",
+      "id": 1668155098,
+      "lat": -18.9081922,
+      "lon": -48.2614607
+    },
+    {
+      "type": "node",
+      "id": 4735171429,
+      "lat": -18.9095707,
+      "lon": -48.2609501
+    },
+    {
+      "type": "node",
+      "id": 4735171430,
+      "lat": -18.9097687,
+      "lon": -48.2608742
+    },
+    {
+      "type": "node",
+      "id": 4735171431,
+      "lat": -18.9099138,
+      "lon": -48.2608409
+    },
+    {
+      "type": "node",
+      "id": 4735171432,
+      "lat": -18.9098551,
+      "lon": -48.2607832
+    },
+    {
+      "type": "node",
+      "id": 3081766320,
+      "lat": -18.9014811,
+      "lon": -48.26816
+    },
+    {
+      "type": "node",
+      "id": 3081766321,
+      "lat": -18.9019247,
+      "lon": -48.2674964
+    },
+    {
+      "type": "node",
+      "id": 3081766322,
+      "lat": -18.9025162,
+      "lon": -48.2679382
+    },
+    {
+      "type": "node",
+      "id": 3081766323,
+      "lat": -18.9020726,
+      "lon": -48.2686018
+    },
+    {
+      "type": "node",
+      "id": 3081793623,
+      "lat": -18.9014254,
+      "lon": -48.2664783
+    },
+    {
+      "type": "node",
+      "id": 3081793624,
+      "lat": -18.9019228,
+      "lon": -48.2657112
+    },
+    {
+      "type": "node",
+      "id": 3081793625,
+      "lat": -18.9016285,
+      "lon": -48.265502
+    },
+    {
+      "type": "node",
+      "id": 3081793626,
+      "lat": -18.9011412,
+      "lon": -48.2662852
+    },
+    {
+      "type": "node",
+      "id": 3097441157,
+      "lat": -18.8896961,
+      "lon": -48.2819032
+    },
+    {
+      "type": "node",
+      "id": 3097441158,
+      "lat": -18.889062,
+      "lon": -48.2812329
+    },
+    {
+      "type": "node",
+      "id": 3097441159,
+      "lat": -18.8888711,
+      "lon": -48.2814148
+    },
+    {
+      "type": "node",
+      "id": 3097441160,
+      "lat": -18.8886261,
+      "lon": -48.2811321
+    },
+    {
+      "type": "node",
+      "id": 3097441161,
+      "lat": -18.8884315,
+      "lon": -48.2813219
+    },
+    {
+      "type": "node",
+      "id": 3097441162,
+      "lat": -18.8893257,
+      "lon": -48.2822887
+    },
+    {
+      "type": "node",
+      "id": 3097441147,
+      "lat": -18.8941755,
+      "lon": -48.2733873
+    },
+    {
+      "type": "node",
+      "id": 3097441149,
+      "lat": -18.8945594,
+      "lon": -48.2737042
+    },
+    {
+      "type": "node",
+      "id": 3097441150,
+      "lat": -18.8953595,
+      "lon": -48.272714
+    },
+    {
+      "type": "node",
+      "id": 3097441151,
+      "lat": -18.8951631,
+      "lon": -48.2725464
+    },
+    {
+      "type": "node",
+      "id": 3097441152,
+      "lat": -18.8951175,
+      "lon": -48.2725508
+    },
+    {
+      "type": "node",
+      "id": 3097441153,
+      "lat": -18.8948376,
+      "lon": -48.2726842
+    },
+    {
+      "type": "node",
+      "id": 3097441154,
+      "lat": -18.8946632,
+      "lon": -48.2727716
+    },
+    {
+      "type": "node",
+      "id": 3097441155,
+      "lat": -18.8945922,
+      "lon": -48.2728248
+    },
+    {
+      "type": "node",
+      "id": 3097441156,
+      "lat": -18.8943633,
+      "lon": -48.2731469
+    },
+    {
+      "type": "node",
+      "id": 3081837017,
+      "lat": -18.891969,
+      "lon": -48.2611306
+    },
+    {
+      "type": "node",
+      "id": 3081837019,
+      "lat": -18.8929537,
+      "lon": -48.2608786
+    },
+    {
+      "type": "node",
+      "id": 3081837020,
+      "lat": -18.8925152,
+      "lon": -48.2615046
+    },
+    {
+      "type": "node",
+      "id": 338653790,
+      "lat": -18.9102271,
+      "lon": -48.2591966
+    },
+    {
+      "type": "node",
+      "id": 338653795,
+      "lat": -18.9100177,
+      "lon": -48.2603688
+    },
+    {
+      "type": "node",
+      "id": 338653802,
+      "lat": -18.9091795,
+      "lon": -48.2596906
+    },
+    {
+      "type": "node",
+      "id": 338653808,
+      "lat": -18.9087389,
+      "lon": -48.2603477
+    },
+    {
+      "type": "node",
+      "id": 1668155085,
+      "lat": -18.9086762,
+      "lon": -48.2604374
+    },
+    {
+      "type": "node",
+      "id": 3050522234,
+      "lat": -18.9100931,
+      "lon": -48.2583463
+    },
+    {
+      "type": "node",
+      "id": 3050522235,
+      "lat": -18.9100461,
+      "lon": -48.2579346
+    },
+    {
+      "type": "node",
+      "id": 3050522236,
+      "lat": -18.9101188,
+      "lon": -48.257921
+    },
+    {
+      "type": "node",
+      "id": 3050522237,
+      "lat": -18.9100204,
+      "lon": -48.2570795
+    },
+    {
+      "type": "node",
+      "id": 3050522238,
+      "lat": -18.9101573,
+      "lon": -48.2570614
+    },
+    {
+      "type": "node",
+      "id": 3050522239,
+      "lat": -18.9101573,
+      "lon": -48.2570026
+    },
+    {
+      "type": "node",
+      "id": 3050522240,
+      "lat": -18.9103842,
+      "lon": -48.2569664
+    },
+    {
+      "type": "node",
+      "id": 6233832117,
+      "lat": -18.9101225,
+      "lon": -48.2583425
+    },
+    {
+      "type": "node",
+      "id": 5933160188,
+      "lat": -18.8989299,
+      "lon": -48.2524337
+    },
+    {
+      "type": "node",
+      "id": 5933160189,
+      "lat": -18.8990146,
+      "lon": -48.2523661
+    },
+    {
+      "type": "node",
+      "id": 5933160190,
+      "lat": -18.8991595,
+      "lon": -48.2525687
+    },
+    {
+      "type": "node",
+      "id": 5933160191,
+      "lat": -18.8990748,
+      "lon": -48.2526364
+    },
+    {
+      "type": "node",
+      "id": 5933156677,
+      "lat": -18.9007969,
+      "lon": -48.2464731
+    },
+    {
+      "type": "node",
+      "id": 5933156678,
+      "lat": -18.9007021,
+      "lon": -48.2463364
+    },
+    {
+      "type": "node",
+      "id": 5933156679,
+      "lat": -18.9008218,
+      "lon": -48.2462437
+    },
+    {
+      "type": "node",
+      "id": 5933156680,
+      "lat": -18.9009166,
+      "lon": -48.2463804
+    },
+    {
+      "type": "node",
+      "id": 3081837018,
+      "lat": -18.8923767,
+      "lon": -48.2604964
+    },
+    {
+      "type": "node",
+      "id": 3081843164,
+      "lat": -18.8924593,
+      "lon": -48.2594679
+    },
+    {
+      "type": "node",
+      "id": 3081843165,
+      "lat": -18.8927993,
+      "lon": -48.2589422
+    },
+    {
+      "type": "node",
+      "id": 3081843166,
+      "lat": -18.8930988,
+      "lon": -48.2591943
+    },
+    {
+      "type": "node",
+      "id": 3081843167,
+      "lat": -18.8927029,
+      "lon": -48.2597146
+    },
+    {
+      "type": "node",
+      "id": 4538496115,
+      "lat": -18.886161,
+      "lon": -48.2516055
+    },
+    {
+      "type": "node",
+      "id": 4538496116,
+      "lat": -18.8866259,
+      "lon": -48.2519352
+    },
+    {
+      "type": "node",
+      "id": 4538496117,
+      "lat": -18.887118,
+      "lon": -48.25116
+    },
+    {
+      "type": "node",
+      "id": 4538496118,
+      "lat": -18.8866531,
+      "lon": -48.2508303
+    },
+    {
+      "type": "node",
+      "id": 3097567336,
+      "lat": -18.9188746,
+      "lon": -48.23095
+    },
+    {
+      "type": "node",
+      "id": 3097567337,
+      "lat": -18.9191893,
+      "lon": -48.2310385
+    },
+    {
+      "type": "node",
+      "id": 3097567338,
+      "lat": -18.9192222,
+      "lon": -48.2309017
+    },
+    {
+      "type": "node",
+      "id": 3097567339,
+      "lat": -18.9189102,
+      "lon": -48.2308052
+    },
+    {
+      "type": "node",
+      "id": 2635011885,
+      "lat": -18.9186146,
+      "lon": -48.1961549
+    },
+    {
+      "type": "node",
+      "id": 2635011886,
+      "lat": -18.9181726,
+      "lon": -48.1959142
+    },
+    {
+      "type": "node",
+      "id": 3044895772,
+      "lat": -18.917929,
+      "lon": -48.1963597
+    },
+    {
+      "type": "node",
+      "id": 3044895773,
+      "lat": -18.9183642,
+      "lon": -48.1965942
+    }
+  ]
+}
